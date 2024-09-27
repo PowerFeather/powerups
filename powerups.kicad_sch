@@ -5,108 +5,6 @@
 	(uuid "351775ff-22dd-4601-a146-0ae5bb7b1807")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Connector:TestPoint"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0.762) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "TP"
-				(at 0 6.858 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "TestPoint"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 5.08 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 5.08 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "test point"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "test point tp"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Pin* Test*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "TestPoint_0_1"
-				(circle
-					(center 0 3.302)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "TestPoint_1_1"
-				(pin passive line
-					(at 0 0 90)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
 				(offset 1.016) hide)
@@ -2798,6 +2696,88 @@
 								(size 1.27 1.27)
 							)
 						)
+					)
+				)
+			)
+		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
 					)
 				)
 			)
@@ -5558,12 +5538,6 @@
 		(uuid "6fbe74c8-a3fe-4d60-8186-7d78bd21d34d")
 	)
 	(junction
-		(at 92.71 167.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "71c95d81-e848-4095-85a6-f0aafda172f0")
-	)
-	(junction
 		(at 154.94 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5654,12 +5628,6 @@
 		(uuid "9f5a0874-3de7-4a6a-95c8-a6ffe7eb9ee3")
 	)
 	(junction
-		(at 92.71 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a9739768-cf8f-4cdf-aa84-b4ed7a5dc8da")
-	)
-	(junction
 		(at 50.8 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5688,6 +5656,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ce42f025-4221-46dd-a97e-aad283576373")
+	)
+	(junction
+		(at 92.71 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d00eb752-3a21-4145-ab75-36a6b33b9f15")
 	)
 	(junction
 		(at 52.07 106.68)
@@ -7203,16 +7177,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 167.64) (xy 92.71 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9962aea6-aeec-4452-86f9-85b6fac6fbe8")
-	)
-	(wire
-		(pts
 			(xy 215.9 57.15) (xy 215.9 68.58)
 		)
 		(stroke
@@ -7243,13 +7207,13 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 170.18) (xy 92.71 171.45)
+			(xy 92.71 167.64) (xy 92.71 171.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9c744a32-c504-4b73-9017-7a807bad62f5")
+		(uuid "9f5d8396-5df0-4ac2-8945-fe7c427e6183")
 	)
 	(wire
 		(pts
@@ -9015,7 +8979,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 75.946 56.134 90)
 			(effects
 				(font
@@ -9024,7 +8988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 74.93 55.88 0)
 			(effects
 				(font
@@ -9058,6 +9022,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 101.6 133.35 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "03e20b1c-25cb-4e69-be23-a24c9c2e36d6")
+		(property "Reference" "H3"
+			(at 104.14 132.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 104.14 134.6199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
+			(at 101.6 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 101.6 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "powerups"
+				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 50.8 60.96 0)
 		(unit 1)
@@ -9085,7 +9113,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 51.816 61.214 90)
 			(effects
 				(font
@@ -9094,7 +9122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 50.8 60.96 0)
 			(effects
 				(font
@@ -9323,7 +9351,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_0603-2Pin_6.0x3.5mm"
 			(at 187.96 113.03 0)
 			(effects
 				(font
@@ -9390,7 +9418,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 159.004 44.704 90)
 			(effects
 				(font
@@ -9399,7 +9427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 158.75 45.72 0)
 			(effects
 				(font
@@ -9761,7 +9789,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 33.274 42.164 90)
 			(effects
 				(font
@@ -9770,7 +9798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 34.29 41.91 0)
 			(effects
 				(font
@@ -10062,7 +10090,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 86.106 162.814 90)
 			(effects
 				(font
@@ -10371,7 +10399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 162.56 82.55 0)
 			(effects
 				(font
@@ -10837,7 +10865,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 75.946 63.754 90)
 			(effects
 				(font
@@ -10846,7 +10874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 74.93 63.5 0)
 			(effects
 				(font
@@ -11133,7 +11161,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 177.8 119.0752 0)
 			(effects
 				(font
@@ -11200,7 +11228,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 93.726 162.814 90)
 			(effects
 				(font
@@ -11399,7 +11427,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 239.776 61.214 90)
 			(effects
 				(font
@@ -11408,7 +11436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 238.76 60.96 0)
 			(effects
 				(font
@@ -11469,7 +11497,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 75.946 103.124 90)
 			(effects
 				(font
@@ -11478,7 +11506,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 74.93 102.87 0)
 			(effects
 				(font
@@ -11817,7 +11845,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 53.086 100.584 90)
 			(effects
 				(font
@@ -11826,7 +11854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 52.07 100.33 0)
 			(effects
 				(font
@@ -11953,7 +11981,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 265.176 65.024 90)
 			(effects
 				(font
@@ -11962,7 +11990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 264.16 64.77 0)
 			(effects
 				(font
@@ -12157,7 +12185,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 265.176 57.404 90)
 			(effects
 				(font
@@ -12166,7 +12194,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 264.16 57.15 0)
 			(effects
 				(font
@@ -12291,7 +12319,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 130.556 60.706 90)
 			(effects
 				(font
@@ -12328,6 +12356,70 @@
 			(project ""
 				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
 					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 101.6 138.43 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8bed1e9-55a8-4665-8722-f7af55621613")
+		(property "Reference" "H4"
+			(at 104.14 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 104.14 139.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
+			(at 101.6 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 101.6 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "powerups"
+				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -12801,6 +12893,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 101.6 121.92 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bb833a9f-6c16-4eed-b346-9d3cbd39874d")
+		(property "Reference" "H1"
+			(at 104.14 120.6499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 104.14 123.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
+			(at 101.6 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 101.6 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
 		(at 92.71 175.26 90)
 		(unit 1)
@@ -12827,7 +12983,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PowerFeather:LED_0603_1608Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 92.71 175.26 0)
 			(effects
 				(font
@@ -13122,7 +13278,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 185.42 106.9848 0)
 			(effects
 				(font
@@ -13192,7 +13348,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 68.326 160.274 90)
 			(effects
 				(font
@@ -13201,7 +13357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 67.31 160.02 0)
 			(effects
 				(font
@@ -13403,7 +13559,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 159.004 37.084 90)
 			(effects
 				(font
@@ -13412,7 +13568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 158.75 38.1 0)
 			(effects
 				(font
@@ -13629,7 +13785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 75.946 95.504 90)
 			(effects
 				(font
@@ -13638,7 +13794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 74.93 95.25 0)
 			(effects
 				(font
@@ -13773,7 +13929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 154.94 82.55 0)
 			(effects
 				(font
@@ -14051,34 +14207,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 92.71 170.18 270)
+		(lib_id "Mechanical:MountingHole")
+		(at 101.6 128.27 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(uuid "f69188f4-7b94-425c-ad8f-4adce93d45a5")
-		(property "Reference" "TP1"
-			(at 100.965 168.275 90)
+		(fields_autoplaced yes)
+		(uuid "fe6bb0d7-9b92-4382-ba15-571aae4ae2b5")
+		(property "Reference" "H2"
+			(at 104.14 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "LED_TP"
-			(at 104.394 170.18 90)
+		(property "Value" "MountingHole"
+			(at 104.14 129.5399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "PowerFeather:TestPoint_Pad_D1.0mm"
-			(at 92.71 175.26 0)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
+			(at 101.6 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14087,7 +14244,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 175.26 0)
+			(at 101.6 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14095,31 +14252,19 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 92.71 170.18 0)
+		(property "Description" "Mounting Hole without connection"
+			(at 101.6 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(property "MPN" "-"
-			(at 92.71 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8eb22169-c224-418a-a1bb-74fc6b5f933a")
 		)
 		(instances
 			(project "powerups"
 				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
-					(reference "TP1")
+					(reference "H2")
 					(unit 1)
 				)
 			)
