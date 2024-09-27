@@ -7827,7 +7827,7 @@
 	)
 	(text "Debug"
 		(exclude_from_sim no)
-		(at 27.686 144.526 0)
+		(at 24.892 144.526 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8525,17 +8525,16 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "064ff313-08c4-4bfc-ba6d-82227b37c249")
-		(property "Reference" "J1"
-			(at 29.21 121.92 0)
+		(property "Reference" "DEBUG_CONN"
+			(at 29.21 124.968 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Conn_01x04"
+		(property "Value" ""
 			(at 29.21 124.46 0)
 			(effects
 				(font
@@ -8543,7 +8542,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 29.21 130.81 0)
 			(effects
 				(font
@@ -8552,7 +8551,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 29.21 130.81 0)
 			(effects
 				(font
@@ -8561,7 +8560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 29.21 130.81 0)
 			(effects
 				(font
@@ -8585,7 +8584,7 @@
 		(instances
 			(project ""
 				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
-					(reference "J1")
+					(reference "DEBUG_CONN")
 					(unit 1)
 				)
 			)
@@ -9656,7 +9655,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "30c91271-f412-4cdd-9fd6-a31a84980a21")
-		(property "Reference" "QON"
+		(property "Reference" "QON1"
 			(at 37.846 170.688 0)
 			(effects
 				(font
@@ -9719,7 +9718,7 @@
 		(instances
 			(project "powerups"
 				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
-					(reference "QON")
+					(reference "QON1")
 					(unit 1)
 				)
 			)
