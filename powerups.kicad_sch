@@ -9633,7 +9633,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TB003-500-P02BE"
+		(property "Value" "1984617"
 			(at 127.508 70.866 0)
 			(effects
 				(font
@@ -9642,7 +9642,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal"
 			(at 110.49 73.66 0)
 			(effects
 				(font
@@ -9651,7 +9651,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.sameskydevices.com/product/resource/tb003-500.pdf"
+		(property "Datasheet" "https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-pt-15-2-35-h-1984617?type=pdf"
 			(at 110.49 73.66 0)
 			(effects
 				(font
@@ -9669,7 +9669,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "490-TB003-500-P02BE "
+		(property "Mouser Part Number" "651-1984617 "
 			(at 110.49 73.66 0)
 			(effects
 				(font
@@ -10574,7 +10574,7 @@
 	)
 	(symbol
 		(lib_id "PowerFeather_KiCAD_Lib:DMP3085LSD")
-		(at 63.5 36.83 90)
+		(at 63.5 76.2 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10582,7 +10582,7 @@
 		(dnp no)
 		(uuid "4741a0d7-1042-424d-aae5-233aeb70b3b2")
 		(property "Reference" "Q2"
-			(at 66.04 30.988 90)
+			(at 66.04 70.358 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10590,7 +10590,7 @@
 			)
 		)
 		(property "Value" "DMP3085LSD"
-			(at 74.168 32.766 90)
+			(at 74.168 72.136 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10598,7 +10598,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
-			(at 63.5 35.56 0)
+			(at 63.5 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10607,7 +10607,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMP3085LSD.pdf"
-			(at 63.5 35.56 0)
+			(at 63.5 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10616,7 +10616,7 @@
 			)
 		)
 		(property "Description" "P-Channel enhancement mode MOSFET"
-			(at 63.5 36.83 0)
+			(at 63.5 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10625,7 +10625,7 @@
 			)
 		)
 		(property "Mouser Part Number" "621-DMP3085LSD-13 "
-			(at 63.5 36.83 90)
+			(at 63.5 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10744,7 +10744,7 @@
 	)
 	(symbol
 		(lib_id "PowerFeather_KiCAD_Lib:DMP3085LSD")
-		(at 63.5 76.2 90)
+		(at 63.5 36.83 90)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10752,7 +10752,7 @@
 		(dnp no)
 		(uuid "51edec01-b5c6-4aec-afd2-388bcbc3b704")
 		(property "Reference" "Q2"
-			(at 66.802 70.104 90)
+			(at 66.802 30.734 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10760,7 +10760,7 @@
 			)
 		)
 		(property "Value" "DMP3085LSD"
-			(at 74.168 71.882 90)
+			(at 74.168 32.512 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10768,7 +10768,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
-			(at 63.5 74.93 0)
+			(at 63.5 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10777,7 +10777,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMP3085LSD.pdf"
-			(at 63.5 74.93 0)
+			(at 63.5 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10786,7 +10786,7 @@
 			)
 		)
 		(property "Description" "P-Channel enhancement mode MOSFET"
-			(at 63.5 76.2 0)
+			(at 63.5 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10795,7 +10795,7 @@
 			)
 		)
 		(property "Mouser Part Number" "621-DMP3085LSD-13 "
-			(at 63.5 76.2 90)
+			(at 63.5 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13418,7 +13418,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal"
 			(at 35.56 87.63 0)
 			(effects
 				(font
