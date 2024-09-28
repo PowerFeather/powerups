@@ -9231,8 +9231,7 @@
 	)
 	(symbol
 		(lib_id "PowerFeather_KiCAD_Lib:DMP3085LSD")
-		(at 43.18 36.83 270)
-		(mirror x)
+		(at 251.46 36.83 90)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9240,7 +9239,7 @@
 		(dnp no)
 		(uuid "066341e9-1b92-4817-94b0-9c5d01daea33")
 		(property "Reference" "Q1"
-			(at 39.878 30.734 90)
+			(at 254.762 30.734 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9248,7 +9247,7 @@
 			)
 		)
 		(property "Value" "DMP3085LSD"
-			(at 32.004 32.766 90)
+			(at 262.636 32.766 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9256,7 +9255,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
-			(at 43.18 35.56 0)
+			(at 251.46 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9265,7 +9264,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMP3085LSD.pdf"
-			(at 43.18 35.56 0)
+			(at 251.46 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9274,7 +9273,7 @@
 			)
 		)
 		(property "Description" "P-Channel enhancement mode MOSFET"
-			(at 43.18 36.83 0)
+			(at 251.46 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9283,7 +9282,7 @@
 			)
 		)
 		(property "Mouser Part Number" "621-DMP3085LSD-13 "
-			(at 43.18 36.83 90)
+			(at 251.46 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10575,7 +10574,7 @@
 	)
 	(symbol
 		(lib_id "PowerFeather_KiCAD_Lib:DMP3085LSD")
-		(at 63.5 76.2 90)
+		(at 63.5 36.83 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10583,7 +10582,7 @@
 		(dnp no)
 		(uuid "4741a0d7-1042-424d-aae5-233aeb70b3b2")
 		(property "Reference" "Q2"
-			(at 66.04 70.358 90)
+			(at 66.04 30.988 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10591,7 +10590,7 @@
 			)
 		)
 		(property "Value" "DMP3085LSD"
-			(at 74.168 72.136 90)
+			(at 74.168 32.766 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10599,7 +10598,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
-			(at 63.5 74.93 0)
+			(at 63.5 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10608,7 +10607,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMP3085LSD.pdf"
-			(at 63.5 74.93 0)
+			(at 63.5 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10617,7 +10616,7 @@
 			)
 		)
 		(property "Description" "P-Channel enhancement mode MOSFET"
-			(at 63.5 76.2 0)
+			(at 63.5 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10626,7 +10625,7 @@
 			)
 		)
 		(property "Mouser Part Number" "621-DMP3085LSD-13 "
-			(at 63.5 76.2 90)
+			(at 63.5 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10745,7 +10744,7 @@
 	)
 	(symbol
 		(lib_id "PowerFeather_KiCAD_Lib:DMP3085LSD")
-		(at 63.5 36.83 90)
+		(at 63.5 76.2 90)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10753,7 +10752,7 @@
 		(dnp no)
 		(uuid "51edec01-b5c6-4aec-afd2-388bcbc3b704")
 		(property "Reference" "Q2"
-			(at 66.802 30.734 90)
+			(at 66.802 70.104 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10761,7 +10760,7 @@
 			)
 		)
 		(property "Value" "DMP3085LSD"
-			(at 74.168 32.512 90)
+			(at 74.168 71.882 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10769,7 +10768,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
-			(at 63.5 35.56 0)
+			(at 63.5 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10778,7 +10777,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMP3085LSD.pdf"
-			(at 63.5 35.56 0)
+			(at 63.5 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10787,7 +10786,7 @@
 			)
 		)
 		(property "Description" "P-Channel enhancement mode MOSFET"
-			(at 63.5 36.83 0)
+			(at 63.5 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10796,7 +10795,7 @@
 			)
 		)
 		(property "Mouser Part Number" "621-DMP3085LSD-13 "
-			(at 63.5 36.83 90)
+			(at 63.5 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12493,7 +12492,8 @@
 	)
 	(symbol
 		(lib_id "PowerFeather_KiCAD_Lib:DMP3085LSD")
-		(at 251.46 36.83 90)
+		(at 43.18 36.83 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12501,7 +12501,7 @@
 		(dnp no)
 		(uuid "ae026d73-b9d1-47d1-b17a-03b7cfc09529")
 		(property "Reference" "Q1"
-			(at 251.46 26.67 90)
+			(at 43.18 26.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12509,7 +12509,7 @@
 			)
 		)
 		(property "Value" "DMP3085LSD"
-			(at 251.46 29.21 90)
+			(at 43.18 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12517,7 +12517,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
-			(at 251.46 35.56 0)
+			(at 43.18 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12526,7 +12526,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMP3085LSD.pdf"
-			(at 251.46 35.56 0)
+			(at 43.18 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12535,7 +12535,7 @@
 			)
 		)
 		(property "Description" "P-Channel enhancement mode MOSFET"
-			(at 251.46 36.83 0)
+			(at 43.18 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12544,7 +12544,7 @@
 			)
 		)
 		(property "Mouser Part Number" "621-DMP3085LSD-13 "
-			(at 251.46 36.83 90)
+			(at 43.18 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12592,7 +12592,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b48e8b2f-1174-4301-9b4b-e4472b50b1b4")
 		(property "Reference" "PI_CONN1"
 			(at 140.97 155.702 0)
@@ -13664,22 +13664,22 @@
 			)
 		)
 		(pin "6"
-			(uuid "06506bc4-c00e-432c-a623-4f0c620291d8")
+			(uuid "06506bc4-c00e-432c-a623-4f0c620291d9")
 		)
 		(pin "5"
-			(uuid "5acfe757-b26e-4219-ae0a-59cf31a34f4b")
+			(uuid "5acfe757-b26e-4219-ae0a-59cf31a34f4c")
 		)
 		(pin "1"
-			(uuid "89de7d56-d78e-46cb-988f-2f5bf610475e")
+			(uuid "89de7d56-d78e-46cb-988f-2f5bf610475f")
 		)
 		(pin "4"
-			(uuid "4e7b8bd2-10ab-45eb-a047-27f281cc5f4d")
+			(uuid "4e7b8bd2-10ab-45eb-a047-27f281cc5f4e")
 		)
 		(pin "2"
-			(uuid "77e053a1-6c69-4937-bb88-69d8e35c4839")
+			(uuid "77e053a1-6c69-4937-bb88-69d8e35c483a")
 		)
 		(pin "3"
-			(uuid "8bee9428-90c3-40d3-bd6e-a0b602a302d3")
+			(uuid "8bee9428-90c3-40d3-bd6e-a0b602a302d4")
 		)
 		(instances
 			(project ""
@@ -14069,7 +14069,7 @@
 		(dnp no)
 		(uuid "f030a30a-0df2-49f4-8fb8-c5a8d1e02eb3")
 		(property "Reference" "TS_CONN1"
-			(at 134.874 52.07 0)
+			(at 133.604 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14086,7 +14086,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_SH_BM02B-SRSS-TB_1x02-1MP_P1.00mm_Vertical"
 			(at 147.32 53.34 0)
 			(effects
 				(font
@@ -14095,7 +14095,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+		(property "Datasheet" ""
 			(at 147.32 53.34 0)
 			(effects
 				(font
@@ -14113,7 +14113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "455-1749-6-ND"
+		(property "Mouser Part Number" ""
 			(at 147.32 53.34 0)
 			(effects
 				(font
