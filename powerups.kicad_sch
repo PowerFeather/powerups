@@ -6592,7 +6592,7 @@
 		(at 57.15 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9662ee48-53ee-42ea-a464-3f83fd75f001")
+		(uuid "97dcfd24-c2fb-40f7-9726-c464b2cbfcd2")
 	)
 	(junction
 		(at 154.94 82.55)
@@ -7489,6 +7489,16 @@
 			(type default)
 		)
 		(uuid "3bd07d09-923b-4c3e-8644-2770a7d7ce43")
+	)
+	(wire
+		(pts
+			(xy 57.15 30.48) (xy 67.31 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c728be0-8d17-4bd6-8193-eb488d4cbdac")
 	)
 	(wire
 		(pts
@@ -9669,16 +9679,6 @@
 			(type default)
 		)
 		(uuid "ee850f03-8eff-4cf9-8fbd-729d2df23c52")
-	)
-	(wire
-		(pts
-			(xy 57.15 30.48) (xy 67.31 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee8e47d2-46a1-48e4-8d1d-19b2cf670d56")
 	)
 	(wire
 		(pts
@@ -12891,6 +12891,7 @@
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 57.15 34.29 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -12898,7 +12899,7 @@
 		(dnp no)
 		(uuid "5c915719-84bf-4a87-b0b7-8e979ec6e697")
 		(property "Reference" "JP1"
-			(at 58.674 35.052 90)
+			(at 58.674 33.528 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12907,7 +12908,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 58.928 33.274 90)
+			(at 58.928 35.306 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13869,7 +13870,8 @@
 	)
 	(symbol
 		(lib_id "PowerFeather_KiCAD_Lib:R_Shunt")
-		(at 71.12 30.48 90)
+		(at 71.12 30.48 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13893,7 +13895,7 @@
 			)
 		)
 		(property "Footprint" "PowerFeather_KiCAD_Lib:R_Shunt"
-			(at 71.374 29.464 90)
+			(at 70.866 29.464 90)
 			(effects
 				(font
 					(size 1.27 1.27)
