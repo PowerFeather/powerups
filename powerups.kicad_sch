@@ -13336,7 +13336,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/281/1/GCM1555G1H100FA16_01A-3141595.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/210/WTC_MLCC_General_Purpose-1534899.pdf"
 			(at 161.29 148.59 0)
 			(effects
 				(font
@@ -13354,7 +13354,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "81-GCM1555G1H100FA6J"
+		(property "MPN" "791-0402N100F160CT"
 			(at 161.29 148.59 0)
 			(effects
 				(font
@@ -15729,7 +15729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/281/1/GCM1555G1H100FA16_01A-3141595.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/210/WTC_MLCC_General_Purpose-1534899.pdf"
 			(at 261.62 143.51 0)
 			(effects
 				(font
@@ -15747,7 +15747,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "81-GCM1555G1H100FA6J"
+		(property "MPN" "791-0402N100F160CT"
 			(at 261.62 143.51 0)
 			(effects
 				(font
@@ -16172,7 +16172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/281/1/GCM1555G1H100FA16_01A-3141595.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/210/WTC_MLCC_General_Purpose-1534899.pdf"
 			(at 151.13 148.59 0)
 			(effects
 				(font
@@ -16190,7 +16190,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "81-GCM1555G1H100FA6J"
+		(property "MPN" "791-0402N100F160CT"
 			(at 151.13 148.59 0)
 			(effects
 				(font
@@ -16249,7 +16249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/281/1/GCM1555G1H100FA16_01A-3141595.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/210/WTC_MLCC_General_Purpose-1534899.pdf"
 			(at 251.46 143.51 0)
 			(effects
 				(font
@@ -16267,7 +16267,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "81-GCM1555G1H100FA6J"
+		(property "MPN" "791-0402N100F160CT"
 			(at 251.46 143.51 0)
 			(effects
 				(font
