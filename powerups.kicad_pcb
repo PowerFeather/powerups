@@ -1373,7 +1373,7 @@
 		(at 120.65 106)
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
-		(property "Reference" "DEBUG_CONN1"
+		(property "Reference" "CONN5"
 			(at 0 2.33 0)
 			(layer "B.SilkS")
 			(uuid "bc3372f4-7073-45c5-a08d-683bb7ad683c")
@@ -1385,7 +1385,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Debug"
 			(at 0 -9.95 0)
 			(layer "B.Fab")
 			(uuid "c93ef435-0336-4ee2-8644-8e7aa22ba97f")
@@ -4972,7 +4972,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "N/A"
+		(property "Value" "0"
 			(at 0.01 -1.4825 90)
 			(layer "B.Fab")
 			(uuid "1bacc816-0fdd-455e-9019-785279f67f56")
@@ -15777,7 +15777,7 @@
 		(at 135.61 89.38 180)
 		(descr "JST SH series connector, BM02B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST SH vertical")
-		(property "Reference" "TS_CONN1"
+		(property "Reference" "CONN6"
 			(at 0 3.3 0)
 			(layer "B.SilkS")
 			(uuid "d80256bb-7799-4f0b-884a-e6adae27c5b2")
@@ -15789,7 +15789,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "S2B-PH-SM4-TB"
+		(property "Value" "Thermistor"
 			(at 0 -3.3 0)
 			(layer "B.Fab")
 			(uuid "fa4e2685-cd5b-4d52-ab63-3351a47ca519")
@@ -15843,7 +15843,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "S2B-PH-SM4-TB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21099,7 +21099,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "SolderJumper_2_Open"
+		(property "Value" "5V Load Switch 2"
 			(at 0 -1.9 0)
 			(layer "B.Fab")
 			(uuid "1568e2cd-160e-493b-8045-b52eea9ef7b7")

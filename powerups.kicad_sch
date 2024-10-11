@@ -6344,7 +6344,7 @@
 		(uuid "067e6ae3-41ce-402c-ac72-27be51069365")
 	)
 	(junction
-		(at 143.51 82.55)
+		(at 138.43 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0c2d68d4-acd6-494d-8229-fa4c3b1e07a0")
@@ -6374,7 +6374,7 @@
 		(uuid "203f11f4-b2cd-46d8-8cb9-f296706e0084")
 	)
 	(junction
-		(at 152.4 74.93)
+		(at 147.32 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "208070ad-d1bd-4b65-b1d4-a9db39a11734")
@@ -6398,7 +6398,7 @@
 		(uuid "323ec8b6-1330-49bc-9659-fae4c867a0bd")
 	)
 	(junction
-		(at 152.4 82.55)
+		(at 147.32 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "367c9c8c-22c6-4dc9-9f46-3d1d67afc0fc")
@@ -6488,7 +6488,7 @@
 		(uuid "51756acf-a7f0-4d3c-8ebc-e62a1b98ae6d")
 	)
 	(junction
-		(at 152.4 59.69)
+		(at 147.32 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "54d229e7-789a-48ba-aee5-b11b0083a6df")
@@ -6552,6 +6552,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6b04ea5a-0d44-4a4c-9b12-bd489464dec1")
+	)
+	(junction
+		(at 156.21 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6b3c7eb5-b7fa-4936-8d29-3d53cf69b349")
 	)
 	(junction
 		(at 45.72 114.3)
@@ -6626,7 +6632,7 @@
 		(uuid "a25704e0-5651-4dcf-8d00-09d94b045008")
 	)
 	(junction
-		(at 161.29 55.88)
+		(at 156.21 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a27a2ec2-67ce-4820-ae61-af5e47f8a011")
@@ -6698,7 +6704,7 @@
 		(uuid "d00eb752-3a21-4145-ab75-36a6b33b9f15")
 	)
 	(junction
-		(at 143.51 74.93)
+		(at 138.43 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d127848a-f345-446a-a421-5816e426b461")
@@ -6774,12 +6780,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec60faa1-735a-4d87-95b3-abe9105d1434")
-	)
-	(junction
-		(at 161.29 81.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ed1b7fe3-06bd-4cbb-9567-09346c8adbf2")
 	)
 	(junction
 		(at 232.41 44.45)
@@ -6861,7 +6861,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 77.47) (xy 161.29 81.28)
+			(xy 156.21 77.47) (xy 156.21 82.55)
 		)
 		(stroke
 			(width 0)
@@ -6898,16 +6898,6 @@
 			(type default)
 		)
 		(uuid "01f04771-f4d7-4abe-9c09-3270fcadcf1c")
-	)
-	(wire
-		(pts
-			(xy 124.46 49.53) (xy 142.24 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02ea6b06-05f8-4717-b3df-445add612eac")
 	)
 	(wire
 		(pts
@@ -6971,7 +6961,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 43.18) (xy 62.23 60.96)
+			(xy 62.23 43.18) (xy 62.23 59.69)
 		)
 		(stroke
 			(width 0)
@@ -6981,7 +6971,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 74.93) (xy 143.51 74.93)
+			(xy 132.08 74.93) (xy 138.43 74.93)
 		)
 		(stroke
 			(width 0)
@@ -7031,7 +7021,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 82.55) (xy 152.4 82.55)
+			(xy 138.43 82.55) (xy 147.32 82.55)
 		)
 		(stroke
 			(width 0)
@@ -7061,7 +7051,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 74.93) (xy 161.29 74.93)
+			(xy 161.29 74.93) (xy 156.21 74.93)
 		)
 		(stroke
 			(width 0)
@@ -7071,7 +7061,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 74.93) (xy 161.29 55.88)
+			(xy 156.21 74.93) (xy 156.21 55.88)
 		)
 		(stroke
 			(width 0)
@@ -7161,7 +7151,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 55.88) (xy 168.91 55.88)
+			(xy 156.21 55.88) (xy 168.91 55.88)
 		)
 		(stroke
 			(width 0)
@@ -7251,7 +7241,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 59.69) (xy 152.4 74.93)
+			(xy 147.32 59.69) (xy 147.32 74.93)
 		)
 		(stroke
 			(width 0)
@@ -7268,6 +7258,16 @@
 			(type default)
 		)
 		(uuid "21f41bcd-0250-4a8a-909f-8abd1f6fe6c4")
+	)
+	(wire
+		(pts
+			(xy 124.46 50.8) (xy 152.4 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2516c331-313e-423a-8d86-082d37119ecb")
 	)
 	(wire
 		(pts
@@ -7371,7 +7371,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 41.91) (xy 179.07 41.91)
+			(xy 166.37 41.91) (xy 179.07 41.91)
 		)
 		(stroke
 			(width 0)
@@ -7538,6 +7538,16 @@
 			(type default)
 		)
 		(uuid "3c728be0-8d17-4bd6-8193-eb488d4cbdac")
+	)
+	(wire
+		(pts
+			(xy 156.21 82.55) (xy 157.48 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cb705d5-a322-46e8-b41d-f704f61ed4a6")
 	)
 	(wire
 		(pts
@@ -7741,7 +7751,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 52.07) (xy 137.16 55.88)
+			(xy 137.16 53.34) (xy 137.16 55.88)
 		)
 		(stroke
 			(width 0)
@@ -8021,7 +8031,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 82.55) (xy 152.4 82.55)
+			(xy 156.21 82.55) (xy 147.32 82.55)
 		)
 		(stroke
 			(width 0)
@@ -8041,7 +8051,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 82.55) (xy 143.51 82.55)
+			(xy 132.08 82.55) (xy 138.43 82.55)
 		)
 		(stroke
 			(width 0)
@@ -8071,7 +8081,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 55.88) (xy 161.29 55.88)
+			(xy 137.16 55.88) (xy 156.21 55.88)
 		)
 		(stroke
 			(width 0)
@@ -8081,7 +8091,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 44.45) (xy 152.4 44.45)
+			(xy 124.46 44.45) (xy 147.32 44.45)
 		)
 		(stroke
 			(width 0)
@@ -8561,7 +8571,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 52.07) (xy 137.16 52.07)
+			(xy 152.4 53.34) (xy 137.16 53.34)
 		)
 		(stroke
 			(width 0)
@@ -8581,7 +8591,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 41.91) (xy 144.78 41.91)
+			(xy 158.75 41.91) (xy 144.78 41.91)
 		)
 		(stroke
 			(width 0)
@@ -8731,16 +8741,6 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 81.28) (xy 161.29 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d4bc157-1ff0-448b-ab4c-f3b9bbd4002a")
-	)
-	(wire
-		(pts
 			(xy 41.91 162.56) (xy 52.07 162.56)
 		)
 		(stroke
@@ -8751,7 +8751,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 44.45) (xy 152.4 59.69)
+			(xy 147.32 44.45) (xy 147.32 59.69)
 		)
 		(stroke
 			(width 0)
@@ -9111,7 +9111,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 77.47) (xy 161.29 77.47)
+			(xy 161.29 77.47) (xy 156.21 77.47)
 		)
 		(stroke
 			(width 0)
@@ -9451,7 +9451,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 74.93) (xy 152.4 74.93)
+			(xy 138.43 74.93) (xy 147.32 74.93)
 		)
 		(stroke
 			(width 0)
@@ -9571,7 +9571,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 63.5) (xy 62.23 82.55)
+			(xy 62.23 62.23) (xy 62.23 82.55)
 		)
 		(stroke
 			(width 0)
@@ -10761,7 +10761,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 152.4 59.69 90)
+		(at 147.32 59.69 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10769,7 +10769,7 @@
 		(dnp no)
 		(uuid "00eda2ec-a12d-4f36-b164-1171a19a102c")
 		(property "Reference" "#FLG04"
-			(at 150.495 59.69 0)
+			(at 145.415 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10778,7 +10778,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 148.59 59.6899 90)
+			(at 143.51 59.6899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10787,7 +10787,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 152.4 59.69 0)
+			(at 147.32 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10796,7 +10796,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 59.69 0)
+			(at 147.32 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10805,7 +10805,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 152.4 59.69 0)
+			(at 147.32 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10974,7 +10974,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 156.21 129.54 0)
 			(effects
 				(font
@@ -11080,16 +11080,16 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "064ff313-08c4-4bfc-ba6d-82227b37c249")
-		(property "Reference" "DEBUG_CONN1"
-			(at 171.45 102.87 90)
+		(property "Reference" "CONN5"
+			(at 149.606 103.886 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "~"
-			(at 151.13 102.87 0)
+		(property "Value" "Debug"
+			(at 149.606 101.854 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11105,7 +11105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 157.48 102.87 0)
 			(effects
 				(font
@@ -11138,7 +11138,7 @@
 		(instances
 			(project ""
 				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
-					(reference "DEBUG_CONN1")
+					(reference "CONN5")
 					(unit 1)
 				)
 			)
@@ -11215,7 +11215,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 156.21 41.91 90)
+		(at 162.56 41.91 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11223,7 +11223,7 @@
 		(dnp no)
 		(uuid "08f53d3e-84c4-4cf1-bf4e-4509f04c7fa1")
 		(property "Reference" "R14"
-			(at 156.21 39.37 90)
+			(at 162.56 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11231,7 +11231,7 @@
 			)
 		)
 		(property "Value" "267k"
-			(at 156.21 43.942 90)
+			(at 162.56 43.942 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11239,7 +11239,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 156.464 40.894 90)
+			(at 162.814 40.894 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11248,7 +11248,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 41.91 0)
+			(at 162.56 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11257,7 +11257,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 156.21 41.91 0)
+			(at 162.56 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11297,7 +11297,7 @@
 				)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5.36k"
 			(at 248.412 109.22 0)
 			(effects
 				(font
@@ -11314,7 +11314,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ph/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf"
 			(at 245.11 107.95 0)
 			(effects
 				(font
@@ -11324,6 +11324,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 245.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "603-RT0402BRD075K36L"
 			(at 245.11 107.95 0)
 			(effects
 				(font
@@ -11414,7 +11423,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 179.07 77.47 0)
+		(at 166.37 77.47 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11423,7 +11432,7 @@
 		(dnp no)
 		(uuid "158a5672-c862-4e4d-9cff-418cf489fbda")
 		(property "Reference" "CONN1"
-			(at 181.102 74.93 0)
+			(at 168.402 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11432,7 +11441,7 @@
 			)
 		)
 		(property "Value" "Battery"
-			(at 181.102 76.962 0)
+			(at 168.402 76.962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11441,7 +11450,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal"
-			(at 179.07 77.47 0)
+			(at 166.37 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11450,7 +11459,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-pt-15-2-35-h-1984617?type=pdf"
-			(at 179.07 77.47 0)
+			(at 166.37 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11459,7 +11468,7 @@
 			)
 		)
 		(property "Description" "10 A terminal block"
-			(at 179.07 77.47 0)
+			(at 166.37 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11468,7 +11477,7 @@
 			)
 		)
 		(property "MPN" "651-1984617 "
-			(at 179.07 77.47 0)
+			(at 166.37 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12111,7 +12120,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 256.54 121.92 0)
 			(effects
 				(font
@@ -12284,10 +12293,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2fa08226-51a9-479b-88dd-004f8ad5b06a")
 		(property "Reference" "Q1"
-			(at 36.83 71.1199 0)
+			(at 44.958 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12296,7 +12304,7 @@
 			)
 		)
 		(property "Value" "SSM6N7002KFU"
-			(at 36.83 73.6599 0)
+			(at 56.388 68.072 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12622,7 +12630,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 152.4 78.74 0)
+		(at 147.32 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12630,7 +12638,7 @@
 		(dnp no)
 		(uuid "349d64ae-ea38-41cd-bbd5-08890b954b28")
 		(property "Reference" "R17"
-			(at 153.924 77.47 0)
+			(at 148.844 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12639,7 +12647,7 @@
 			)
 		)
 		(property "Value" "10m"
-			(at 153.924 80.01 0)
+			(at 148.844 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12648,7 +12656,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 153.416 78.994 90)
+			(at 148.336 78.994 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12657,7 +12665,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-mfsa-automotive-smd-current-sense-resistor-metal-foil-data-sheet-elx1180.pdf"
-			(at 152.4 78.74 0)
+			(at 147.32 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12666,7 +12674,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 152.4 78.74 0)
+			(at 147.32 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12675,7 +12683,7 @@
 			)
 		)
 		(property "MPN" "MFSA0603R0100FSM"
-			(at 152.4 78.74 0)
+			(at 147.32 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12782,7 +12790,7 @@
 				)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5.36k"
 			(at 239.522 109.22 0)
 			(effects
 				(font
@@ -12799,7 +12807,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ph/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf"
 			(at 236.22 107.95 0)
 			(effects
 				(font
@@ -12809,6 +12817,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 236.22 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "603-RT0402BRD075K36L"
 			(at 236.22 107.95 0)
 			(effects
 				(font
@@ -12849,7 +12866,7 @@
 				)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5.36k"
 			(at 243.332 137.16 0)
 			(effects
 				(font
@@ -12866,7 +12883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ph/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf"
 			(at 240.03 135.89 0)
 			(effects
 				(font
@@ -12876,6 +12893,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 240.03 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "603-RT0402BRD075K36L"
 			(at 240.03 135.89 0)
 			(effects
 				(font
@@ -13142,7 +13168,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SolderJumper_2_Open"
+		(property "Value" "5V Load Switch 2"
 			(at 58.928 35.306 90)
 			(effects
 				(font
@@ -13533,7 +13559,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 161.29 81.28 270)
+		(at 157.48 82.55 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13541,7 +13567,7 @@
 		(dnp no)
 		(uuid "734b085a-7497-44bd-8c6e-9b9092aa578d")
 		(property "Reference" "#FLG08"
-			(at 163.195 81.28 0)
+			(at 159.385 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13550,7 +13576,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 165.1 81.2801 90)
+			(at 161.29 82.5501 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13559,7 +13585,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 161.29 81.28 0)
+			(at 157.48 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13568,7 +13594,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 161.29 81.28 0)
+			(at 157.48 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13577,7 +13603,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 161.29 81.28 0)
+			(at 157.48 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14186,7 +14212,7 @@
 				)
 			)
 		)
-		(property "Value" "N/A"
+		(property "Value" "0"
 			(at 71.12 28.194 90)
 			(effects
 				(font
@@ -15169,7 +15195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 97.79 166.37 0)
 			(effects
 				(font
@@ -16228,7 +16254,7 @@
 				)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5.36k"
 			(at 235.712 137.16 0)
 			(effects
 				(font
@@ -16245,7 +16271,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ph/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf"
 			(at 232.41 135.89 0)
 			(effects
 				(font
@@ -16255,6 +16281,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 232.41 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "603-RT0402BRD075K36L"
 			(at 232.41 135.89 0)
 			(effects
 				(font
@@ -16491,7 +16526,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 57.15 60.96 0)
+		(at 57.15 59.69 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16499,8 +16534,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d8a3bddb-570a-4658-9ca1-18e628a99af7")
-		(property "Reference" "VDC_CONN1"
-			(at 55.372 60.452 0)
+		(property "Reference" "CONN7"
+			(at 55.372 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16508,8 +16543,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TB003-500-P02BE"
-			(at 55.372 62.738 0)
+		(property "Value" "External DC"
+			(at 55.372 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16518,7 +16553,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal"
-			(at 57.15 60.96 0)
+			(at 57.15 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16527,7 +16562,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.sameskydevices.com/product/resource/tb003-500.pdf"
-			(at 57.15 60.96 0)
+			(at 57.15 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16536,7 +16571,7 @@
 			)
 		)
 		(property "Description" "10 A terminal block"
-			(at 57.15 60.96 0)
+			(at 57.15 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16545,7 +16580,7 @@
 			)
 		)
 		(property "MPN" "490-TB003-500-P02BE "
-			(at 57.15 60.96 0)
+			(at 57.15 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16562,7 +16597,7 @@
 		(instances
 			(project "powerups"
 				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
-					(reference "VDC_CONN1")
+					(reference "CONN7")
 					(unit 1)
 				)
 			)
@@ -16768,7 +16803,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 143.51 78.74 0)
+		(at 138.43 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16776,7 +16811,7 @@
 		(dnp no)
 		(uuid "e83838be-d705-4809-9b1e-543779e03d56")
 		(property "Reference" "R12"
-			(at 145.034 77.47 0)
+			(at 139.954 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16785,7 +16820,7 @@
 			)
 		)
 		(property "Value" "10m"
-			(at 145.034 80.01 0)
+			(at 139.954 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16794,7 +16829,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 144.526 78.994 90)
+			(at 139.446 78.994 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16803,7 +16838,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-mfsa-automotive-smd-current-sense-resistor-metal-foil-data-sheet-elx1180.pdf"
-			(at 143.51 78.74 0)
+			(at 138.43 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16812,7 +16847,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 143.51 78.74 0)
+			(at 138.43 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16821,7 +16856,7 @@
 			)
 		)
 		(property "MPN" "MFSA0603R0100FSM"
-			(at 143.51 78.74 0)
+			(at 138.43 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17135,15 +17170,15 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 147.32 49.53 0)
+		(at 157.48 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f030a30a-0df2-49f4-8fb8-c5a8d1e02eb3")
-		(property "Reference" "TS_CONN1"
-			(at 133.858 50.8 0)
+		(property "Reference" "CONN6"
+			(at 152.654 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17151,8 +17186,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "S2B-PH-SM4-TB"
-			(at 126.238 48.514 0)
+		(property "Value" "Thermistor"
+			(at 149.098 46.228 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17160,8 +17195,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_SH_BM02B-SRSS-TB_1x02-1MP_P1.00mm_Vertical"
-			(at 147.32 49.53 0)
+		(property "Footprint" "Connector_JST:JST_SH_SM02B-SRSS-TB_1x02-1MP_P1.00mm_Horizontal"
+			(at 157.48 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17170,7 +17205,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 49.53 0)
+			(at 157.48 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17179,7 +17214,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 147.32 49.53 0)
+			(at 157.48 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17187,8 +17222,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 147.32 49.53 0)
+		(property "MPN" "S2B-PH-SM4-TB"
+			(at 157.48 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17205,7 +17240,7 @@
 		(instances
 			(project "powerups"
 				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
-					(reference "TS_CONN1")
+					(reference "CONN6")
 					(unit 1)
 				)
 			)
@@ -17247,7 +17282,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 57.15 120.65 0)
 			(effects
 				(font
@@ -17460,7 +17495,7 @@
 			(uuid "46e2ba87-107a-4391-b785-6071412985db")
 		)
 		(pin "TS" input
-			(at 124.46 49.53 0)
+			(at 124.46 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
