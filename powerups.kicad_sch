@@ -6769,6 +6769,12 @@
 		(uuid "ec60faa1-735a-4d87-95b3-abe9105d1434")
 	)
 	(junction
+		(at 161.29 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ed1b7fe3-06bd-4cbb-9567-09346c8adbf2")
+	)
+	(junction
 		(at 232.41 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6848,7 +6854,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 80.01) (xy 161.29 82.55)
+			(xy 161.29 77.47) (xy 161.29 81.28)
 		)
 		(stroke
 			(width 0)
@@ -7048,7 +7054,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 77.47) (xy 161.29 77.47)
+			(xy 173.99 74.93) (xy 161.29 74.93)
 		)
 		(stroke
 			(width 0)
@@ -7058,7 +7064,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 77.47) (xy 161.29 55.88)
+			(xy 161.29 74.93) (xy 161.29 55.88)
 		)
 		(stroke
 			(width 0)
@@ -7678,7 +7684,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 27.94) (xy 147.32 30.48)
+			(xy 147.32 29.21) (xy 147.32 30.48)
 		)
 		(stroke
 			(width 0)
@@ -8728,6 +8734,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 81.28) (xy 161.29 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d4bc157-1ff0-448b-ab4c-f3b9bbd4002a")
+	)
+	(wire
+		(pts
 			(xy 40.64 162.56) (xy 50.8 162.56)
 		)
 		(stroke
@@ -9098,7 +9114,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 80.01) (xy 161.29 80.01)
+			(xy 173.99 77.47) (xy 161.29 77.47)
 		)
 		(stroke
 			(width 0)
@@ -11174,7 +11190,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 171.45 80.01 0)
+		(at 179.07 77.47 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11183,7 +11199,7 @@
 		(dnp no)
 		(uuid "158a5672-c862-4e4d-9cff-418cf489fbda")
 		(property "Reference" "BAT_CONN1"
-			(at 174.244 80.518 0)
+			(at 181.864 77.978 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11192,7 +11208,7 @@
 			)
 		)
 		(property "Value" "1984617"
-			(at 174.244 77.978 0)
+			(at 181.864 75.438 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11201,7 +11217,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal"
-			(at 171.45 80.01 0)
+			(at 179.07 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11210,7 +11226,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-pt-15-2-35-h-1984617?type=pdf"
-			(at 171.45 80.01 0)
+			(at 179.07 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11219,7 +11235,7 @@
 			)
 		)
 		(property "Description" "10 A terminal block"
-			(at 171.45 80.01 0)
+			(at 179.07 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11227,8 +11243,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "651-1984617 "
-			(at 171.45 80.01 0)
+		(property "MPN" "651-1984617 "
+			(at 179.07 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11563,7 +11579,7 @@
 				)
 			)
 		)
-		(property "Value" "10m"
+		(property "Value" "0"
 			(at 53.594 40.894 0)
 			(effects
 				(font
@@ -11630,7 +11646,7 @@
 				)
 			)
 		)
-		(property "Value" "10m"
+		(property "Value" "0"
 			(at 210.82 28.194 90)
 			(effects
 				(font
@@ -12416,7 +12432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-mfsa-automotive-smd-current-sense-resistor-metal-foil-data-sheet-elx1180.pdf"
 			(at 152.4 78.74 0)
 			(effects
 				(font
@@ -12425,7 +12441,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 152.4 78.74 0)
 			(effects
 				(font
@@ -12711,7 +12727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "81-DFE252012F-R47MP2 "
+		(property "MPN" "81-DFE252012F-R47MP2 "
 			(at 182.88 22.86 90)
 			(effects
 				(font
@@ -13286,6 +13302,72 @@
 			(project "powerups"
 				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
 					(reference "#FLG06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 161.29 81.28 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "734b085a-7497-44bd-8c6e-9b9092aa578d")
+		(property "Reference" "#FLG08"
+			(at 163.195 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 165.1 81.2801 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 161.29 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8d6f96a2-a0da-4af7-af12-04f87d057d1e")
+		)
+		(instances
+			(project "powerups"
+				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
+					(reference "#FLG08")
 					(unit 1)
 				)
 			)
@@ -13874,14 +13956,14 @@
 		(dnp no)
 		(uuid "9b4b7790-8b89-4c50-93bc-93d22481f98f")
 		(property "Reference" "R4"
-			(at 71.12 25.654 90)
+			(at 71.12 32.766 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "10m"
+		(property "Value" "N/A"
 			(at 71.12 28.194 90)
 			(effects
 				(font
@@ -14291,7 +14373,7 @@
 				)
 			)
 		)
-		(property "Value" "10m"
+		(property "Value" "0"
 			(at 71.12 40.386 90)
 			(effects
 				(font
@@ -15254,7 +15336,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "859-LTST-C190KGKT"
+		(property "MPN" "859-LTST-C190KGKT"
 			(at 104.14 124.46 0)
 			(effects
 				(font
@@ -16056,7 +16138,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "267k"
 			(at 72.644 110.49 0)
 			(effects
 				(font
@@ -16134,7 +16216,7 @@
 				)
 			)
 		)
-		(property "Value" "10m"
+		(property "Value" "0"
 			(at 257.81 32.766 90)
 			(effects
 				(font
@@ -16239,7 +16321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "490-TB003-500-P02BE "
+		(property "MPN" "490-TB003-500-P02BE "
 			(at 57.15 60.96 0)
 			(effects
 				(font
@@ -16265,7 +16347,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 147.32 27.94 0)
+		(at 147.32 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16273,7 +16355,7 @@
 		(dnp no)
 		(uuid "d8b825b7-c563-42f1-9edb-656f04da7503")
 		(property "Reference" "#PWR013"
-			(at 147.32 31.75 0)
+			(at 147.32 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16282,7 +16364,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 143.51 26.416 0)
+			(at 143.51 27.686 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16290,7 +16372,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 147.32 27.94 0)
+			(at 147.32 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16299,7 +16381,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 27.94 0)
+			(at 147.32 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16308,7 +16390,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 147.32 27.94 0)
+			(at 147.32 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16497,7 +16579,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-mfsa-automotive-smd-current-sense-resistor-metal-foil-data-sheet-elx1180.pdf"
 			(at 143.51 78.74 0)
 			(effects
 				(font
@@ -16506,7 +16588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 143.51 78.74 0)
 			(effects
 				(font
@@ -16549,14 +16631,14 @@
 		(dnp no)
 		(uuid "eb50f6fb-e5fb-40f1-af8e-6105abee3dbe")
 		(property "Reference" "R13"
-			(at 156.21 25.654 90)
+			(at 156.21 32.766 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "10m"
+		(property "Value" "0"
 			(at 156.21 28.194 90)
 			(effects
 				(font
@@ -16625,7 +16707,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "47nF"
 			(at 33.02 123.19 0)
 			(effects
 				(font
@@ -16643,7 +16725,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ph/datasheet/2/210/WTC_MLCC_General_Purpose-1534899.pdf"
 			(at 36.83 121.92 0)
 			(effects
 				(font
@@ -16661,7 +16743,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" ""
+		(property "Comment" "25V,  X7R"
 			(at 36.83 121.92 0)
 			(effects
 				(font
@@ -16670,7 +16752,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "81-GRM155R61E105MA2J"
+		(property "MPN" "791-0402B473K250CT"
 			(at 36.83 121.92 0)
 			(effects
 				(font
@@ -16882,7 +16964,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" ""
+		(property "MPN" ""
 			(at 147.32 49.53 0)
 			(effects
 				(font
@@ -17126,7 +17208,7 @@
 			)
 		)
 		(property "Sheetfile" "powerfeather-kicad-lib/sheets/bq25622e.kicad_sch"
-			(at 85.852 24.13 0)
+			(at 107.696 24.384 0)
 			(effects
 				(font
 					(size 1.27 1.27)

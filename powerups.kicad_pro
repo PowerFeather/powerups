@@ -532,37 +532,31 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Comment",
           "name": "Comment",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "MPN",
           "name": "MPN",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Mouser Part Number",
-          "name": "Mouser Part Number",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Description",
           "name": "Description",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Mouser",
           "name": "Mouser",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",
