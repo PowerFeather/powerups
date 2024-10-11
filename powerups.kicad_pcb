@@ -5346,7 +5346,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/PYu_AC_51_RoHS_L_11-3418659.pdf"
+		(property "Datasheet" "https://www.mouser.ph/datasheet/2/447/PYu_AC_51_RoHS_L_9-3005297.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5374,12 +5374,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser" "603-AC0402FR-07267KL "
+		(property "MPN" "603-AC0402FR-07267KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0c673bd1-7945-4104-9bfb-81a6c30185e7")
+			(uuid "2c8c13cc-aaab-4771-ad7d-6c80d32b83d2")
 			(effects
 				(font
 					(size 1 1)
