@@ -11162,8 +11162,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "VMK3-9001-32K7680000TR"
-			(at 149.606 112.776 90)
+		(property "Value" "ECS-.327-7-34R-TR"
+			(at 149.352 119.126 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11180,7 +11180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/122/ECX_34R-845158.pdf"
 			(at 156.21 139.7 0)
 			(effects
 				(font
@@ -11190,6 +11190,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 156.21 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "520-.327-7-34R-T"
 			(at 156.21 139.7 0)
 			(effects
 				(font
@@ -13310,7 +13319,7 @@
 				)
 			)
 		)
-		(property "Value" "8.2pF"
+		(property "Value" "10pF"
 			(at 157.734 148.59 90)
 			(effects
 				(font
@@ -13327,7 +13336,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/281/1/GCM1555G1H100FA16_01A-3141595.pdf"
 			(at 161.29 148.59 0)
 			(effects
 				(font
@@ -13336,7 +13345,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "~"
+			(at 161.29 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "81-GCM1555G1H100FA6J"
 			(at 161.29 148.59 0)
 			(effects
 				(font
@@ -15694,7 +15712,7 @@
 				)
 			)
 		)
-		(property "Value" "15pF"
+		(property "Value" "10pF"
 			(at 258.064 143.51 90)
 			(effects
 				(font
@@ -15711,7 +15729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/281/1/GCM1555G1H100FA16_01A-3141595.pdf"
 			(at 261.62 143.51 0)
 			(effects
 				(font
@@ -15720,7 +15738,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "~"
+			(at 261.62 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "81-GCM1555G1H100FA6J"
 			(at 261.62 143.51 0)
 			(effects
 				(font
@@ -16045,7 +16072,7 @@
 				)
 			)
 		)
-		(property "Value" "VXM7-9040-16M0000000TR"
+		(property "Value" "ECS-120-8-33-JGN-TR3"
 			(at 263.398 126.746 90)
 			(effects
 				(font
@@ -16062,7 +16089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/122/ecx_32-1888651.pdf"
 			(at 256.54 134.62 0)
 			(effects
 				(font
@@ -16072,6 +16099,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 256.54 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "520-120-8-33-JGN-TR3 520-120-8-33-JGN-TR3 "
 			(at 256.54 134.62 0)
 			(effects
 				(font
@@ -16119,7 +16155,7 @@
 				)
 			)
 		)
-		(property "Value" "8.2pF"
+		(property "Value" "10pF"
 			(at 147.574 148.59 90)
 			(effects
 				(font
@@ -16136,7 +16172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/281/1/GCM1555G1H100FA16_01A-3141595.pdf"
 			(at 151.13 148.59 0)
 			(effects
 				(font
@@ -16145,7 +16181,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "~"
+			(at 151.13 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "81-GCM1555G1H100FA6J"
 			(at 151.13 148.59 0)
 			(effects
 				(font
@@ -16187,7 +16232,7 @@
 				)
 			)
 		)
-		(property "Value" "15pF"
+		(property "Value" "10pF"
 			(at 255.016 143.51 90)
 			(effects
 				(font
@@ -16204,7 +16249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/281/1/GCM1555G1H100FA16_01A-3141595.pdf"
 			(at 251.46 143.51 0)
 			(effects
 				(font
@@ -16213,7 +16258,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "~"
+			(at 251.46 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "81-GCM1555G1H100FA6J"
 			(at 251.46 143.51 0)
 			(effects
 				(font
