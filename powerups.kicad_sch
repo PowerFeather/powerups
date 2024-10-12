@@ -17153,7 +17153,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "267k"
+		(property "Value" "31.6k"
 			(at 72.644 109.22 0)
 			(effects
 				(font
@@ -17171,7 +17171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.ph/datasheet/2/447/PYu_AC_51_RoHS_L_9-3005297.pdf"
+		(property "Datasheet" "https://www.mouser.ph/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf"
 			(at 71.12 107.95 0)
 			(effects
 				(font
@@ -17189,7 +17189,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "603-AC0402FR-07267KL"
+		(property "MPN" "603-RT0402BRD0731K6L"
 			(at 71.12 107.95 0)
 			(effects
 				(font
@@ -17749,7 +17749,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "47nF"
+		(property "Value" "1uF"
 			(at 33.02 121.92 0)
 			(effects
 				(font
@@ -17767,7 +17767,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.ph/datasheet/2/210/WTC_MLCC_General_Purpose-1534899.pdf"
+		(property "Datasheet" "https://www.mouser.ph/datasheet/2/281/1/GRM155R61E105MA12_01A-1983855.pdf"
 			(at 36.83 120.65 0)
 			(effects
 				(font
@@ -17785,7 +17785,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "25V,  X7R"
+		(property "Comment" "25V, X5R"
 			(at 36.83 120.65 0)
 			(effects
 				(font
@@ -17794,7 +17794,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "791-0402B473K250CT"
+		(property "MPN" "81-GRM155R61E105MA2J"
 			(at 36.83 120.65 0)
 			(effects
 				(font
