@@ -1769,7 +1769,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/115/DIOD_S_A0012994412_1-2543853.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -1792,6 +1792,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "621-B340AE-13"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "996ca556-f783-4446-97f2-eff64cac01bb")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -3022,7 +3036,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/609/MAX17260-3469057.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -3045,6 +3059,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "700-MAX17260BEWL+T"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c65419be-93c8-485f-9ee1-6655ecb8a6fc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -4432,6 +4460,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Comment" "1%"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d2484d6e-4aa8-4c1b-bdb7-7a76427baa8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/bf9a7b83-429e-4bc5-98a0-e1b6f8402756")
 		(sheetname "Root")
@@ -4912,6 +4954,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Comment" "1%"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "20e70d65-3251-45e3-a06b-0e06725f0c9e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/68a5b033-9e39-47b3-be40-d385cf2fec8e")
 		(sheetname "Root")
@@ -5126,6 +5182,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "MFSA0603R0100FSM"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3d8f189c-cd04-4647-96c7-d29e836696b5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -7716,7 +7786,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "SSM6N7002KFU,LF"
+		(property "MPN" "757-SSM6N7002KFULF "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8192,7 +8262,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "C190KRKT"
+		(property "Value" "LTST-C190KRKT"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "a0302b2c-0e3b-487b-9302-4656f32725fe")
@@ -8742,7 +8812,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9676,7 +9746,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "AVR128DD28x-xSS"
+		(property "Value" "AVR128DB28"
 			(at 0 -6.25 90)
 			(layer "B.Fab")
 			(uuid "17aee83f-d281-4e8d-91e3-67fbeac40b3b")
@@ -9702,7 +9772,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/268/AVR128DB28_32_48_64_DataSheet_DS40002247-3223139.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9725,6 +9795,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "579-AVR128DB28-I/SS"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "be2c3888-06e9-4472-8b2f-fe2ec4b10021")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -10478,6 +10562,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "MFSA0603R0100FSM"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4bcedbd0-165b-4f25-92aa-51a93c9b188a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/eb50f6fb-e5fb-40f1-af8e-6105abee3dbe")
 		(sheetname "Root")
@@ -10826,6 +10924,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "MFSA0603R0100FSM"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cd7c0f08-16bb-47e9-915f-d78e79cdbbf3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a3e147c8-b6be-478f-8133-3d477eb1f3fe")
 		(sheetname "Root")
@@ -11166,6 +11278,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "595-BQ25622ERYKR"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "77a7abfa-6393-4d15-a256-aa9a70f9d11f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -11616,7 +11742,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "MFSA0603R0100FSM"
+		(property "MPN" "504-MFSA0603R0100FSM"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11844,6 +11970,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "MFSA0603R0100FSM"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5c093112-d345-4b23-b286-157697769397")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -12416,7 +12556,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13674,7 +13814,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/308/1/FAN48623_D-2311504.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13697,6 +13837,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "512-FAN48623UC50X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3ce15cf8-6221-4242-bdde-aac018b6a1b0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -14351,6 +14505,20 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "MFSA0603R0100FSM"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "31fc330a-5631-4359-92e0-107b55051f1d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/241e98af-992f-405b-a8c3-5a4b92cf5ba0")
 		(sheetname "Root")
@@ -14671,7 +14839,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/115/DIOD_S_A0012994412_1-2543853.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14694,6 +14862,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "621-B340AE-13"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4e34ffec-2b3c-4d81-a450-8d3c7cc158c1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -15223,7 +15405,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15465,6 +15647,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "621-AP22916DCA4-7"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e0e643dd-2ca9-401b-a6ca-2848d83bd0ec")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -16233,7 +16429,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16475,6 +16671,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "MFSA0603R0100FSM"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "062542e4-1046-41b0-b7e1-60919ab0e07c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -16979,11 +17189,11 @@
 		(locked yes)
 		(layer "B.Cu")
 		(uuid "a619d4b4-a891-4308-8086-d3e0181a5937")
-		(at 135.61 89.38 180)
+		(at 135.61 90.04)
 		(descr "JST SH series connector, SM02B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST SH horizontal")
 		(property "Reference" "CONN6"
-			(at 0 3.98 0)
+			(at 0 3.98 360)
 			(layer "B.SilkS")
 			(uuid "f29115fe-8a21-449c-8b25-fe5c965b40aa")
 			(effects
@@ -16995,7 +17205,7 @@
 			)
 		)
 		(property "Value" "Thermistor"
-			(at 0 -3.98 0)
+			(at 0 -3.98 360)
 			(layer "B.Fab")
 			(uuid "65645e22-98cd-472e-8cb3-6b5b0eefb331")
 			(effects
@@ -17007,7 +17217,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_SH_SM02B-SRSS-TB_1x02-1MP_P1.00mm_Horizontal"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -17021,7 +17231,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -17035,7 +17245,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -17049,7 +17259,7 @@
 			)
 		)
 		(property "MPN" "S2B-PH-SM4-TB"
-			(at 0 0 180)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -17068,44 +17278,14 @@
 		(sheetfile "powerups.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start 2.11 1.785)
-			(end 2.11 -0.715)
+			(start -2.11 1.785)
+			(end -2.11 -0.715)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "8aa2b14c-ad76-4300-b5ef-b7d06fd540ca")
-		)
-		(fp_line
-			(start 1.06 1.785)
-			(end 2.11 1.785)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "c7fd3e63-b086-4917-ad99-0b8b567ae2dd")
-		)
-		(fp_line
-			(start 0.94 -2.685)
-			(end -0.94 -2.685)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "af24090d-2911-4d71-b52c-a96fd2dd46b6")
-		)
-		(fp_line
-			(start -1.06 2.775)
-			(end -1.06 1.785)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "dbd6bc46-d72f-49e8-89ef-ac2b882f1741")
+			(uuid "4293743d-ecfa-41ef-8b92-14f2a9a4c076")
 		)
 		(fp_line
 			(start -1.06 1.785)
@@ -17118,44 +17298,44 @@
 			(uuid "c240beab-aede-4587-8218-f387a4158d4c")
 		)
 		(fp_line
-			(start -2.11 1.785)
-			(end -2.11 -0.715)
+			(start -1.06 2.775)
+			(end -1.06 1.785)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "4293743d-ecfa-41ef-8b92-14f2a9a4c076")
+			(uuid "dbd6bc46-d72f-49e8-89ef-ac2b882f1741")
 		)
 		(fp_line
-			(start 2.9 3.28)
-			(end 2.9 -3.28)
+			(start 0.94 -2.685)
+			(end -0.94 -2.685)
 			(stroke
-				(width 0.05)
+				(width 0.12)
 				(type solid)
 			)
-			(layer "B.CrtYd")
-			(uuid "8dd0778d-7cc4-4f6b-960e-0ecb5d257702")
+			(layer "B.SilkS")
+			(uuid "af24090d-2911-4d71-b52c-a96fd2dd46b6")
 		)
 		(fp_line
-			(start 2.9 -3.28)
-			(end -2.9 -3.28)
+			(start 1.06 1.785)
+			(end 2.11 1.785)
 			(stroke
-				(width 0.05)
+				(width 0.12)
 				(type solid)
 			)
-			(layer "B.CrtYd")
-			(uuid "5610d7a9-f3d4-43f1-86c3-6a8f4066951f")
+			(layer "B.SilkS")
+			(uuid "c7fd3e63-b086-4917-ad99-0b8b567ae2dd")
 		)
 		(fp_line
-			(start -2.9 3.28)
-			(end 2.9 3.28)
+			(start 2.11 1.785)
+			(end 2.11 -0.715)
 			(stroke
-				(width 0.05)
+				(width 0.12)
 				(type solid)
 			)
-			(layer "B.CrtYd")
-			(uuid "da212705-b449-4bfd-9019-86752eda22d2")
+			(layer "B.SilkS")
+			(uuid "8aa2b14c-ad76-4300-b5ef-b7d06fd540ca")
 		)
 		(fp_line
 			(start -2.9 -3.28)
@@ -17168,44 +17348,44 @@
 			(uuid "af366d5c-0ea2-42ee-8ecc-ad6e4762f2a9")
 		)
 		(fp_line
-			(start 2 1.675)
+			(start -2.9 3.28)
+			(end 2.9 3.28)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "da212705-b449-4bfd-9019-86752eda22d2")
+		)
+		(fp_line
+			(start 2.9 -3.28)
+			(end -2.9 -3.28)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "5610d7a9-f3d4-43f1-86c3-6a8f4066951f")
+		)
+		(fp_line
+			(start 2.9 3.28)
+			(end 2.9 -3.28)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "8dd0778d-7cc4-4f6b-960e-0ecb5d257702")
+		)
+		(fp_line
+			(start -2 -2.575)
 			(end -2 1.675)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "42fcdba2-9f6f-40a5-a087-09e8e94f8c3f")
-		)
-		(fp_line
-			(start 2 -2.575)
-			(end 2 1.675)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "c33c2951-3f37-4892-a372-c1d56897336b")
-		)
-		(fp_line
-			(start 2 -2.575)
-			(end -2 -2.575)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "7805fbbe-156c-419b-81f2-d40442b64ae6")
-		)
-		(fp_line
-			(start 0 1.675)
-			(end -0.5 0.967893)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "B.Fab")
-			(uuid "aa2fde2d-590b-4b83-aa8e-18984fdf9dd3")
+			(uuid "9f827a51-3db4-4270-98e3-29482fd32078")
 		)
 		(fp_line
 			(start -0.5 0.967893)
@@ -17218,17 +17398,47 @@
 			(uuid "222ad32f-7aa7-4175-b2a6-e1d350e51c04")
 		)
 		(fp_line
-			(start -2 -2.575)
+			(start 0 1.675)
+			(end -0.5 0.967893)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "aa2fde2d-590b-4b83-aa8e-18984fdf9dd3")
+		)
+		(fp_line
+			(start 2 -2.575)
+			(end -2 -2.575)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "7805fbbe-156c-419b-81f2-d40442b64ae6")
+		)
+		(fp_line
+			(start 2 -2.575)
+			(end 2 1.675)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "c33c2951-3f37-4892-a372-c1d56897336b")
+		)
+		(fp_line
+			(start 2 1.675)
 			(end -2 1.675)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "9f827a51-3db4-4270-98e3-29482fd32078")
+			(uuid "42fcdba2-9f6f-40a5-a087-09e8e94f8c3f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 360)
 			(layer "B.Fab")
 			(uuid "afdb2bf1-06c7-40ee-8e30-00b495e10819")
 			(effects
@@ -17240,7 +17450,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.5 2 180)
+			(at -0.5 2)
 			(size 0.6 1.55)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
@@ -17250,7 +17460,7 @@
 			(uuid "e0220066-c67d-4133-8292-6f213d895fe8")
 		)
 		(pad "2" smd roundrect
-			(at 0.5 2 180)
+			(at 0.5 2)
 			(size 0.6 1.55)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
@@ -17260,14 +17470,14 @@
 			(uuid "61cff419-cf1d-41c5-a5a9-15e46ee3e5f3")
 		)
 		(pad "MP" smd roundrect
-			(at -1.8 -1.875 180)
+			(at -1.8 -1.875)
 			(size 1.2 1.8)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.208333)
 			(uuid "9dc07d28-486d-4350-a6d8-58d84a276005")
 		)
 		(pad "MP" smd roundrect
-			(at 1.8 -1.875 180)
+			(at 1.8 -1.875)
 			(size 1.2 1.8)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.208333)
@@ -17576,7 +17786,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMN3016LFDE.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17599,6 +17809,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "621-DMN3016LFDE-13"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9c2d706a-d159-4b3b-ad1f-cbfebbce5ede")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -20637,7 +20861,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "MFSA0603R0100FSM"
+		(property "MPN" "504-MFSA0603R0100FSM"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -20884,6 +21108,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Comment" "1%"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5151fbe1-9076-4120-abb0-1109353c8adb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/cf6da5b3-8016-4592-8835-27b312c3e548")
 		(sheetname "Root")
@@ -21109,6 +21347,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "203e1cd1-f454-48f4-91a6-b64971280df2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Comment" "1%"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b4a9f7a8-4786-4cb1-8e40-83778f64ba4f")
 			(effects
 				(font
 					(size 1 1)
@@ -21541,7 +21793,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/308/1/NCV68261_D-2944147.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21564,6 +21816,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "863-NCV68261MTWAITBG"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3afee115-d38d-47f1-ae94-124993bc10b9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -22088,6 +22354,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "621-AP22916DCA4-7"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5449e6a3-91be-45b6-8758-c90b007dc273")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)

@@ -11220,7 +11220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 156.21 173.99 0)
 			(effects
 				(font
@@ -13501,7 +13501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 57.15 34.29 0)
 			(effects
 				(font
@@ -15357,7 +15357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 156.21 186.69 0)
 			(effects
 				(font
@@ -16180,7 +16180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 132.08 173.99 0)
 			(effects
 				(font
@@ -17997,7 +17997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
 			(at 157.48 50.8 0)
 			(effects
 				(font
@@ -18015,7 +18015,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "S2B-PH-SM4-TB"
+		(property "MPN" "455-SM02B-SRSS-TBDKR-ND"
 			(at 157.48 50.8 0)
 			(effects
 				(font
@@ -18298,7 +18298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 132.08 186.69 0)
 			(effects
 				(font
