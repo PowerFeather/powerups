@@ -18192,8 +18192,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10uF"
-			(at 258.572 128.524 0)
+		(property "Value" "4.7uF"
+			(at 257.81 128.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18237,7 +18237,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "187-CL10A106KP8NNWC"
+		(property "MPN" "187-CL10A475KP8NNND"
 			(at 265.43 129.54 0)
 			(effects
 				(font
