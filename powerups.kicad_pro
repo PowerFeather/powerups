@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.1524
+          "min_clearance": 0.3556
         }
       },
       "diff_pair_dimensions": [
@@ -179,7 +179,7 @@
       ],
       "track_widths": [
         0.0,
-        0.1524
+        0.508
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -588,10 +588,6 @@
       {
         "netclass": "3A",
         "pattern": "Net-(R18-Pad1)"
-      },
-      {
-        "netclass": "6A",
-        "pattern": "/max17260/BAT_IN"
       },
       {
         "netclass": "1A",
