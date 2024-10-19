@@ -4659,7 +4659,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R6"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "B.SilkS")
 			(uuid "48eec770-fc0c-463e-a6f9-a388c9c14618")
 			(effects
@@ -4671,7 +4671,7 @@
 			)
 		)
 		(property "Value" "267k"
-			(at 0 -1.17 360)
+			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(uuid "0d105a5f-41db-46ef-abfb-28c5fa191b53")
 			(effects
@@ -4844,7 +4844,7 @@
 			(uuid "48a77f02-3896-45a4-bb36-5c60feaabd08")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "30f97d41-a3ac-494a-92ec-85f44a32da60")
 			(effects
@@ -4892,7 +4892,7 @@
 		(descr "Net tie, 2 pin, 0.5mm square SMD pads")
 		(tags "net tie")
 		(property "Reference" "NT1"
-			(at 0 1.2 360)
+			(at 0 1.2 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "f72edf4a-7552-472e-88ad-090a53dc4bc5")
@@ -4905,7 +4905,7 @@
 			)
 		)
 		(property "Value" "NetTie_2"
-			(at 0 -1.2 360)
+			(at 0 -1.2 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8666284f-369c-4ec1-aeed-96fbc30ba0a6")
@@ -12658,7 +12658,7 @@
 		(descr "Net tie, 2 pin, 0.5mm square SMD pads")
 		(tags "net tie")
 		(property "Reference" "NT8"
-			(at 0 1.2 360)
+			(at 0 1.2 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "c4019607-ffd8-496e-9185-c5ecbf8da6dd")
@@ -12671,7 +12671,7 @@
 			)
 		)
 		(property "Value" "NetTie_2"
-			(at 0 -1.2 360)
+			(at 0 -1.2 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0474193f-5b08-4d3d-8d61-4e892c6df44f")
@@ -15679,7 +15679,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0 1.68 360)
+			(at 0 1.68 0)
 			(layer "B.SilkS")
 			(uuid "2f812cc9-7276-437c-864b-93c5fc080b33")
 			(effects
@@ -15691,7 +15691,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 0 -1.68 360)
+			(at 0 -1.68 0)
 			(layer "B.Fab")
 			(uuid "5e73976c-05b5-4226-a9dd-951e50173051")
 			(effects
@@ -15878,7 +15878,7 @@
 			(uuid "6ac6d54e-8d7c-4922-b314-1e27f2d8a093")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "5e4207a7-53be-4085-823a-c364af27cf9f")
 			(effects
@@ -24085,14 +24085,6 @@
 		(uuid "6c25de22-52fb-48e8-85c1-8381397b86a7")
 	)
 	(segment
-		(start 99.6902 99.0902)
-		(end 99.6902 96.7402)
-		(width 0.3048)
-		(layer "B.Cu")
-		(net 4)
-		(uuid "714b4cbb-096d-4873-a5c3-c9837a75ce33")
-	)
-	(segment
 		(start 98.375 98.83)
 		(end 98.375 100.695)
 		(width 0.2032)
@@ -24107,14 +24099,6 @@
 		(layer "B.Cu")
 		(net 4)
 		(uuid "7abfb008-a756-4ee3-bc40-15a851b002d7")
-	)
-	(segment
-		(start 99.7536 99.0564)
-		(end 99.7536 102.92511)
-		(width 0.3048)
-		(layer "B.Cu")
-		(net 4)
-		(uuid "7fb6dfa1-d277-47d8-9192-262f378b68fc")
 	)
 	(segment
 		(start 99.289355 103.389355)
@@ -24235,14 +24219,6 @@
 		(layer "B.Cu")
 		(net 4)
 		(uuid "e3069f67-01f1-4cf7-9d91-a74c251bf8e4")
-	)
-	(segment
-		(start 99.6902 96.7402)
-		(end 99.6902 95.887121)
-		(width 0.3048)
-		(layer "B.Cu")
-		(net 4)
-		(uuid "e4014371-cb4a-4894-8379-32d3c7b1eb4e")
 	)
 	(segment
 		(start 99.6902 95.887121)
@@ -30891,14 +30867,6 @@
 		(layer "B.Cu")
 		(net 51)
 		(uuid "8a1e84f5-9df7-4646-9456-25bd0011fccb")
-	)
-	(segment
-		(start 100.9298 96.602301)
-		(end 100.9298 97.439168)
-		(width 0.2032)
-		(layer "B.Cu")
-		(net 51)
-		(uuid "b85ce956-bb76-4d97-9de1-96c89ec965da")
 	)
 	(segment
 		(start 100.32 96.3175)
