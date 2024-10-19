@@ -6296,12 +6296,6 @@
 		(uuid "3b5bdf2d-4ff9-433d-b6e7-4b270ee0ef9a")
 	)
 	(junction
-		(at 167.64 146.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3bd51720-b52c-4221-9621-d994fe2040e5")
-	)
-	(junction
 		(at 176.53 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7065,7 +7059,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 146.05) (xy 177.8 146.05)
+			(xy 165.1 146.05) (xy 177.8 146.05)
 		)
 		(stroke
 			(width 0)
@@ -8945,16 +8939,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 146.05) (xy 167.64 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb2b40fe-68e9-43e9-932e-4be5615f8590")
-	)
-	(wire
-		(pts
 			(xy 218.44 130.81) (xy 229.87 130.81)
 		)
 		(stroke
@@ -9502,16 +9486,6 @@
 			(type default)
 		)
 		(uuid "e69648ea-a549-4ad5-b375-864da2a3b566")
-	)
-	(wire
-		(pts
-			(xy 165.1 146.05) (xy 167.64 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7b778aa-fa51-427b-bd99-b58329f300e9")
 	)
 	(wire
 		(pts
@@ -10318,6 +10292,7 @@
 	)
 	(label "5V_BYP"
 		(at 165.1 133.35 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10476,6 +10451,7 @@
 	)
 	(label "5V_OUT_EN"
 		(at 229.87 115.57 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10497,6 +10473,7 @@
 	)
 	(label "CE"
 		(at 165.1 135.89 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12163,7 +12140,7 @@
 	)
 	(symbol
 		(lib_id "Device:Q_Dual_NMOS_S1G1D2S2G2D1")
-		(at 44.45 57.15 0)
+		(at 67.31 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12171,7 +12148,7 @@
 		(dnp no)
 		(uuid "2fa08226-51a9-479b-88dd-004f8ad5b06a")
 		(property "Reference" "Q1"
-			(at 52.324 59.182 90)
+			(at 75.184 120.142 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12180,7 +12157,7 @@
 			)
 		)
 		(property "Value" "SSM6N7002KFU"
-			(at 50.292 64.77 90)
+			(at 73.152 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12189,7 +12166,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
-			(at 49.53 57.15 0)
+			(at 72.39 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12198,7 +12175,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/408/SSM6N7002KFU_datasheet_en_20210528-1916430.pdf?srsltid=AfmBOop08j8fwTSOUQ8HrcG_NJwcoFN509fWR9jV1anedV--X0uxJff3"
-			(at 49.53 57.15 0)
+			(at 72.39 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12207,7 +12184,7 @@
 			)
 		)
 		(property "Description" "Dual NMOS transistor, 6 pin package"
-			(at 44.45 57.15 0)
+			(at 67.31 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12216,7 +12193,7 @@
 			)
 		)
 		(property "MPN" "757-SSM6N7002KFULF "
-			(at 44.45 57.15 90)
+			(at 67.31 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15068,7 +15045,7 @@
 	)
 	(symbol
 		(lib_id "Device:Q_Dual_NMOS_S1G1D2S2G2D1")
-		(at 67.31 118.11 0)
+		(at 44.45 57.15 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15076,7 +15053,7 @@
 		(dnp no)
 		(uuid "a5dce218-660a-4e2f-919c-0c4310d3b43d")
 		(property "Reference" "Q1"
-			(at 64.008 119.888 0)
+			(at 41.148 58.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15084,7 +15061,7 @@
 			)
 		)
 		(property "Value" "SSM6N7002KFU"
-			(at 58.42 121.92 0)
+			(at 35.56 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15092,7 +15069,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
-			(at 72.39 118.11 0)
+			(at 49.53 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15101,7 +15078,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/408/SSM6N7002KFU_datasheet_en_20210528-1916430.pdf?srsltid=AfmBOop08j8fwTSOUQ8HrcG_NJwcoFN509fWR9jV1anedV--X0uxJff3"
-			(at 72.39 118.11 0)
+			(at 49.53 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15110,7 +15087,7 @@
 			)
 		)
 		(property "Description" "Dual NMOS transistor, 6 pin package"
-			(at 67.31 118.11 0)
+			(at 44.45 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15119,7 +15096,7 @@
 			)
 		)
 		(property "MPN" "757-SSM6N7002KFULF "
-			(at 67.31 118.11 90)
+			(at 44.45 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
