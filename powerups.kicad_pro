@@ -593,6 +593,10 @@
       {
         "netclass": "1A",
         "pattern": "Net-(u6-REGN)"
+      },
+      {
+        "netclass": "1A",
+        "pattern": "Net-(JP1-A)"
       }
     ]
   },
