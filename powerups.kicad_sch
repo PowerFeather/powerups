@@ -6386,6 +6386,12 @@
 		(uuid "6b3c7eb5-b7fa-4936-8d29-3d53cf69b349")
 	)
 	(junction
+		(at 130.81 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "715eae18-941c-4b51-b5b7-26acbd2e840b")
+	)
+	(junction
 		(at 231.14 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6650,6 +6656,12 @@
 		(uuid "efe4ea86-cde7-4667-bc11-f73a0ca70c32")
 	)
 	(junction
+		(at 133.35 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eff4c3c2-cc16-4964-ba62-cafddf73e410")
+	)
+	(junction
 		(at 157.48 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6866,6 +6878,16 @@
 			(type default)
 		)
 		(uuid "0e204ea0-2f83-4037-869a-a1fbb11b30b3")
+	)
+	(wire
+		(pts
+			(xy 133.35 41.91) (xy 133.35 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0efe6b6c-7ce1-4710-9f1c-b5488a2f112c")
 	)
 	(wire
 		(pts
@@ -7149,7 +7171,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 49.53) (xy 142.24 49.53)
+			(xy 114.3 49.53) (xy 133.35 49.53)
 		)
 		(stroke
 			(width 0)
@@ -7359,7 +7381,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 127) (xy 100.33 129.54)
+			(xy 107.95 127) (xy 107.95 129.54)
 		)
 		(stroke
 			(width 0)
@@ -7656,6 +7678,16 @@
 			(type default)
 		)
 		(uuid "4c700140-ef03-4d42-8fd1-15bc71845e7d")
+	)
+	(wire
+		(pts
+			(xy 130.81 41.91) (xy 130.81 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c9beb7f-16ae-4b4f-95c3-7b9dd7c76f61")
 	)
 	(wire
 		(pts
@@ -8009,7 +8041,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 115.57) (xy 100.33 115.57)
+			(xy 100.33 115.57) (xy 107.95 115.57)
 		)
 		(stroke
 			(width 0)
@@ -8499,7 +8531,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 52.07) (xy 127 52.07)
+			(xy 142.24 52.07) (xy 130.81 52.07)
 		)
 		(stroke
 			(width 0)
@@ -8649,7 +8681,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 115.57) (xy 100.33 119.38)
+			(xy 107.95 115.57) (xy 107.95 119.38)
 		)
 		(stroke
 			(width 0)
@@ -8879,6 +8911,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 49.53) (xy 142.24 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7c2dd64-66e1-4458-ad95-06224fea00bd")
+	)
+	(wire
+		(pts
 			(xy 167.64 36.83) (xy 168.91 36.83)
 		)
 		(stroke
@@ -8946,6 +8988,16 @@
 			(type default)
 		)
 		(uuid "bb4af79a-4eec-4ff9-b45e-985c02200264")
+	)
+	(wire
+		(pts
+			(xy 130.81 52.07) (xy 127 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb5121c8-155d-4324-b2aa-03ad66f2f9d5")
 	)
 	(wire
 		(pts
@@ -10960,6 +11012,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 133.35 36.83 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(uuid "0554faf1-f4c6-42ed-a2b5-574ff2da1fce")
+		(property "Reference" "CONN8"
+			(at 128.524 31.496 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Thermistor Alt"
+			(at 125.476 33.782 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical"
+			(at 133.35 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 133.35 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e7dfb5b1-06bc-4488-9be4-6bb071f3e300")
+		)
+		(pin "2"
+			(uuid "4cfae34f-adc9-4fb4-afbb-9894cea449e6")
+		)
+		(instances
+			(project "powerups"
+				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
+					(reference "CONN8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
 		(at 154.94 106.68 90)
 		(unit 1)
@@ -11264,7 +11386,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 100.33 129.54 0)
+		(at 107.95 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11272,7 +11394,7 @@
 		(dnp no)
 		(uuid "0c43e38e-b43e-4052-860b-ce5c304948cc")
 		(property "Reference" "#PWR011"
-			(at 100.33 135.89 0)
+			(at 107.95 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11281,7 +11403,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 104.394 130.81 0)
+			(at 112.014 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11289,7 +11411,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 129.54 0)
+			(at 107.95 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11298,7 +11420,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 129.54 0)
+			(at 107.95 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11307,7 +11429,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 100.33 129.54 0)
+			(at 107.95 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16176,7 +16298,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 100.33 123.19 90)
+		(at 107.95 123.19 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16184,7 +16306,7 @@
 		(dnp no)
 		(uuid "bd52cd8e-c6aa-4a7b-98c1-5b96274ca9d3")
 		(property "Reference" "LED1"
-			(at 102.108 123.952 90)
+			(at 101.6 124.968 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16193,7 +16315,7 @@
 			)
 		)
 		(property "Value" "LTST-C190KGKT"
-			(at 102.108 121.92 90)
+			(at 90.678 122.936 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16202,7 +16324,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 100.33 123.19 0)
+			(at 107.95 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16211,7 +16333,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.ph/datasheet/2/239/LTST_C190KGKT-1141861.pdf"
-			(at 100.33 123.19 0)
+			(at 107.95 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16220,7 +16342,7 @@
 			)
 		)
 		(property "Description" "Green LED"
-			(at 100.33 123.19 0)
+			(at 107.95 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16229,7 +16351,7 @@
 			)
 		)
 		(property "MPN" "859-LTST-C190KGKT"
-			(at 100.33 123.19 0)
+			(at 107.95 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17836,7 +17958,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical"
 			(at 50.8 110.49 0)
 			(effects
 				(font
