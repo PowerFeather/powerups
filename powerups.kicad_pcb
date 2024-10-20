@@ -767,7 +767,7 @@
 		(path "/b48e8b2f-1174-4301-9b4b-e4472b50b1b4")
 		(sheetname "Root")
 		(sheetfile "powerups.kicad_sch")
-		(attr through_hole dnp)
+		(attr through_hole)
 		(fp_line
 			(start 3.87 -1.33)
 			(end 3.87 19.11)
@@ -1125,7 +1125,7 @@
 			(pintype "passive")
 			(uuid "471ccc0d-d98e-4f79-8cea-358f3066916c")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x08_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/powerfeather-kicad-lib/3d/POGO.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1133,7 +1133,106 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/powerfeather-kicad-lib/3d/POGO.stp"
+			(offset
+				(xyz 0 -2.54 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/powerfeather-kicad-lib/3d/POGO.stp"
+			(offset
+				(xyz 0 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/powerfeather-kicad-lib/3d/POGO.stp"
+			(offset
+				(xyz 2.54 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/powerfeather-kicad-lib/3d/POGO.stp"
+			(offset
+				(xyz 2.54 -2.54 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/powerfeather-kicad-lib/3d/POGO.stp"
+			(offset
+				(xyz 2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/powerfeather-kicad-lib/3d/POGO.stp"
+			(offset
+				(xyz 0 -10.16 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/powerfeather-kicad-lib/3d/POGO.stp"
+			(offset
+				(xyz 0 -12.7 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/powerfeather-kicad-lib/3d/POGO.stp"
+			(offset
+				(xyz 2.54 -15.24 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/powerfeather-kicad-lib/3d/POGO.stp"
+			(offset
+				(xyz 2.54 -17.78 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
 			)
 		)
 	)

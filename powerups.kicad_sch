@@ -15780,7 +15780,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "b48e8b2f-1174-4301-9b4b-e4472b50b1b4")
 		(property "Reference" "CONN4"
 			(at 95.25 154.432 0)
@@ -15798,7 +15798,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
+		(property "Footprint" ""
 			(at 93.98 165.1 0)
 			(effects
 				(font
