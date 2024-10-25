@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.3556
+          "min_clearance": 0.25
         }
       },
       "diff_pair_dimensions": [
@@ -597,6 +597,10 @@
       {
         "netclass": "1A",
         "pattern": "Net-(JP1-A)"
+      },
+      {
+        "netclass": "3A",
+        "pattern": "Net-(CONN7-Pin_1)"
       }
     ]
   },
