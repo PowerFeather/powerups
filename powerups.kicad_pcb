@@ -4283,7 +4283,7 @@
 			(at 0.6 0.8 270)
 			(size 0.25 0.25)
 			(layers "B.Cu" "B.Paste")
-			(net 68 "Net-(U1-ILIM)")
+			(net 1 "GND")
 			(pinfunction "SEL")
 			(pintype "input")
 			(uuid "26821a33-2ba3-4c36-b10c-c8f4666787d8")
