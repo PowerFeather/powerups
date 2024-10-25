@@ -6868,7 +6868,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 127) (xy 265.43 128.27)
+			(xy 265.43 129.54) (xy 265.43 144.78)
 		)
 		(stroke
 			(width 0)
@@ -8648,7 +8648,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 119.38) (xy 265.43 101.6)
+			(xy 265.43 121.92) (xy 265.43 101.6)
 		)
 		(stroke
 			(width 0)
@@ -9925,9 +9925,9 @@
 			"B7U+VImPRV7AAAAAAElFTkSuQmCC"
 		)
 	)
-	(text "- ILIM resistor sets 3.125 current limit (2500 / 800)\n- MAX17260 Rsense (10mOhm in parallel = 5 mOhm)\n    - Max Capacity: 327.675m / 5m = 65 Ah\n    - Max Current: 51.1984m / 5m = 10.24 A\n    - Min Current: 0.0015625u / 5m = 312.5 uA\n- 5V boost initially bypassed, 5V out initially disabled\n"
+	(text "- ILIM resistor sets 3.125 current limit (2500 / 800)\n- MAX17260 Rsense (10mOhm in parallel = 5 mOhm)\n    - Max Capacity: 327.675m / 5m = 65 Ah\n    - Max Current: 51.1984m / 5m = 10.24 A\n    - Min Current: 0.0015625u / 5m = 312.5 uA\n- 5V boost initially bypassed, 5V out initially disabled\n- TPS2120 ILIM = 69.1 / (31.6 ^ 0.861) = 3.53 A\n"
 		(exclude_from_sim no)
-		(at 183.896 72.39 0)
+		(at 182.626 75.184 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10452,8 +10452,8 @@
 			(justify right bottom)
 		)
 		(uuid "da1ebf8b-eead-4174-8d4c-e5949d583ed6")
-		(property "Peripheral" "CCL, EVSYS"
-			(at 241.046 122.174 0)
+		(property "Peripheral" "EVSYS"
+			(at 235.966 122.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14617,16 +14617,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 265.43 128.27 0)
+		(at 265.43 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "982a9e4a-789d-408a-9bca-121bd964fa13")
 		(property "Reference" "#PWR019"
-			(at 265.43 134.62 0)
+			(at 265.43 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14635,7 +14634,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 265.43 133.35 0)
+			(at 261.62 146.304 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14643,7 +14642,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 265.43 128.27 0)
+			(at 265.43 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14652,7 +14651,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 265.43 128.27 0)
+			(at 265.43 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14661,7 +14660,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 265.43 128.27 0)
+			(at 265.43 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17997,7 +17996,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 265.43 123.19 180)
+		(at 265.43 125.73 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18005,7 +18004,7 @@
 		(dnp no)
 		(uuid "fb576731-b775-4c5f-aa36-c27f88352494")
 		(property "Reference" "C21"
-			(at 259.334 124.46 0)
+			(at 259.334 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18014,7 +18013,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 257.81 122.174 0)
+			(at 257.81 124.714 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18023,7 +18022,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 264.4648 119.38 0)
+			(at 264.4648 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18032,7 +18031,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.ph/datasheet/2/585/MLCC-1837944.pdf"
-			(at 265.43 123.19 0)
+			(at 265.43 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18041,7 +18040,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 265.43 123.19 0)
+			(at 265.43 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18050,7 +18049,7 @@
 			)
 		)
 		(property "Comment" "10V, X5R"
-			(at 265.43 123.19 0)
+			(at 265.43 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18059,7 +18058,7 @@
 			)
 		)
 		(property "MPN" "187-CL10A475KP8NNND"
-			(at 265.43 123.19 0)
+			(at 265.43 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
