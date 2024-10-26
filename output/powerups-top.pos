@@ -1,0 +1,8 @@
+### Footprint positions - created on 2024-10-26T15:24:18+0900 ###
+### Printed by KiCad version 8.0.5-dirty
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                      Package                               PosX       PosY       Rot  Side
+CONN3     Generic_Board_Connector  PinHeader_1x07_P2.54mm_Vertical   119.8900  -110.1400  -90.0000  top
+CONN4     Raspberry_Pi_Connector   PinHeader_2x08_P2.54mm_Vertical   104.5650   -86.5500   90.0000  top
+## End

@@ -10965,7 +10965,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "0554faf1-f4c6-42ed-a2b5-574ff2da1fce")
@@ -11035,7 +11035,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "064ff313-08c4-4bfc-ba6d-82227b37c249")
@@ -12771,7 +12771,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "30c91271-f412-4cdd-9fd6-a31a84980a21")
-		(property "Reference" "QON1"
+		(property "Reference" "BTN1"
 			(at 35.306 109.728 0)
 			(effects
 				(font
@@ -12834,7 +12834,7 @@
 		(instances
 			(project "powerups"
 				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
-					(reference "QON1")
+					(reference "BTN1")
 					(unit 1)
 				)
 			)
@@ -14054,7 +14054,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "74dcaf52-03be-4422-b78d-b3dd2e9d22d3")
@@ -16192,7 +16192,7 @@
 		(at 240.03 40.64 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "b3cb427d-08b1-42df-8f52-acb186b15ba5")
@@ -16259,7 +16259,7 @@
 		(at 93.98 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "b48e8b2f-1174-4301-9b4b-e4472b50b1b4")
@@ -18196,7 +18196,7 @@
 		(at 50.8 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "f2fe1705-be33-4179-a248-d32a4e7b24d7")
