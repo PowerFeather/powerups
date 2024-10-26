@@ -10899,7 +10899,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "03e20b1c-25cb-4e69-be23-a24c9c2e36d6")
 		(property "Reference" "H3"
@@ -10929,7 +10929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 156.21 173.99 0)
 			(effects
 				(font
@@ -11121,7 +11121,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ECS-.327-7-34R-TR"
+		(property "Value" "32.768 kHz"
 			(at 150.622 126.746 90)
 			(effects
 				(font
@@ -11158,6 +11158,15 @@
 			)
 		)
 		(property "MPN" "520-.327-7-34R-T"
+			(at 157.48 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "12.5 pF"
 			(at 157.48 147.32 0)
 			(effects
 				(font
@@ -11291,7 +11300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.ph/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/PYu_RC_Group_51_RoHS_L_12-3368608.pdf"
 			(at 257.81 107.95 0)
 			(effects
 				(font
@@ -11309,7 +11318,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "603-RT0402BRD075K36L"
+		(property "MPN" "603-RC0402FR-135K36L"
 			(at 257.81 107.95 0)
 			(effects
 				(font
@@ -11435,7 +11444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMN3016LFDE.pdf"
 			(at 246.38 31.75 0)
 			(effects
 				(font
@@ -11665,7 +11674,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "651-1984617 "
+		(property "MPN" "490-TB003-500-P02BE"
 			(at 161.29 76.2 0)
 			(effects
 				(font
@@ -11725,7 +11734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.ph/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf"
 			(at 80.01 46.99 0)
 			(effects
 				(font
@@ -11743,7 +11752,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "603-RT0402BRD0731K6L"
+		(property "MPN" "603-RC0402FR-7D31K6L"
 			(at 80.01 46.99 0)
 			(effects
 				(font
@@ -12189,7 +12198,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MFSA0603R0100FSM"
+		(property "MPN" "504-MFSA0603R0100FSM"
 			(at 222.25 29.21 0)
 			(effects
 				(font
@@ -12287,7 +12296,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2bd20a9a-9f41-4394-b08b-b516e923ba6b")
 		(property "Reference" "NT8"
 			(at 224.79 25.4 90)
@@ -12314,7 +12323,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 227.33 26.67 0)
 			(effects
 				(font
@@ -12982,6 +12991,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "500 mW"
+			(at 142.24 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "835dd496-a4ea-4e56-b41f-0707459bab7d")
 		)
@@ -13005,7 +13023,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "4179144e-6498-4434-8d43-e9e69a731fd2")
 		(property "Reference" "NT7"
 			(at 133.096 80.01 0)
@@ -13032,7 +13050,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 133.35 81.28 0)
 			(effects
 				(font
@@ -13099,7 +13117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.ph/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/PYu_RC_Group_51_RoHS_L_12-3368608.pdf"
 			(at 248.92 107.95 0)
 			(effects
 				(font
@@ -13117,7 +13135,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "603-RT0402BRD075K36L"
+		(property "MPN" "603-RC0402FR-135K36L"
 			(at 248.92 107.95 0)
 			(effects
 				(font
@@ -13175,7 +13193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.ph/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/PYu_RC_Group_51_RoHS_L_12-3368608.pdf"
 			(at 252.73 135.89 0)
 			(effects
 				(font
@@ -13193,7 +13211,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "603-RT0402BRD075K36L"
+		(property "MPN" "603-RC0402FR-135K36L"
 			(at 252.73 135.89 0)
 			(effects
 				(font
@@ -13602,7 +13620,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "57e9f7bb-420c-434f-97ea-9ec25b7e4542")
 		(property "Reference" "NT4"
 			(at 251.46 39.37 0)
@@ -13629,7 +13647,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 252.73 39.37 0)
 			(effects
 				(font
@@ -14186,7 +14204,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "78f9a0fe-922c-4cc8-94ca-286ffba57868")
 		(property "Reference" "NT5"
 			(at 238.76 31.75 0)
@@ -14213,7 +14231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 240.03 31.75 0)
 			(effects
 				(font
@@ -15013,7 +15031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMN3016LFDE.pdf"
 			(at 233.68 31.75 0)
 			(effects
 				(font
@@ -15111,7 +15129,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MFSA0603R0100FSM"
+		(property "MPN" "504-MFSA0603R0100FSM"
 			(at 40.64 29.21 0)
 			(effects
 				(font
@@ -15568,7 +15586,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a1b4b1d1-a8b5-422d-8fc8-51997bc416d3")
 		(property "Reference" "NT2"
 			(at 206.756 27.432 90)
@@ -15597,7 +15615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 207.01 26.67 0)
 			(effects
 				(font
@@ -15682,7 +15700,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MFSA0603R0100FSM"
+		(property "MPN" "504-MFSA0603R0100FSM"
 			(at 40.64 58.42 0)
 			(effects
 				(font
@@ -15801,7 +15819,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a8bed1e9-55a8-4665-8722-f7af55621613")
 		(property "Reference" "H4"
@@ -15831,7 +15849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 156.21 186.69 0)
 			(effects
 				(font
@@ -15869,7 +15887,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a932110a-125b-429b-a2f5-b4da2c85c97d")
 		(property "Reference" "NT1"
 			(at 167.64 24.384 0)
@@ -15896,7 +15914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 167.64 22.86 0)
 			(effects
 				(font
@@ -16243,7 +16261,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b48e8b2f-1174-4301-9b4b-e4472b50b1b4")
 		(property "Reference" "CONN4"
 			(at 95.25 154.432 0)
@@ -16549,7 +16567,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "bb833a9f-6c16-4eed-b346-9d3cbd39874d")
 		(property "Reference" "H1"
@@ -16579,7 +16597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 132.08 173.99 0)
 			(effects
 				(font
@@ -17100,7 +17118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.ph/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/PYu_RC_Group_51_RoHS_L_12-3368608.pdf"
 			(at 242.57 135.89 0)
 			(effects
 				(font
@@ -17118,7 +17136,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "603-RT0402BRD075K36L"
+		(property "MPN" "603-RC0402FR-135K36L"
 			(at 242.57 135.89 0)
 			(effects
 				(font
@@ -17150,7 +17168,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d07e19b5-4d4a-4a2b-8517-49e6b8caacf6")
 		(property "Reference" "NT3"
 			(at 226.06 40.64 0)
@@ -17177,7 +17195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 227.33 40.64 0)
 			(effects
 				(font
@@ -17263,7 +17281,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MFSA0603R0100FSM"
+		(property "MPN" "504-MFSA0603R0100FSM"
 			(at 257.81 29.21 0)
 			(effects
 				(font
@@ -17690,6 +17708,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "500 mW"
+			(at 135.89 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "20f62015-dde2-4681-b2eb-6a42eab96fcd")
 		)
@@ -17713,7 +17740,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ea7e767b-510a-432e-8689-30cfe65ba2ec")
 		(property "Reference" "NT6"
 			(at 130.81 72.136 0)
@@ -17740,7 +17767,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 130.81 73.66 0)
 			(effects
 				(font
@@ -17825,7 +17852,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MFSA0603R0100FSM"
+		(property "MPN" "504-MFSA0603R0100FSM"
 			(at 140.97 29.21 0)
 			(effects
 				(font
@@ -17969,6 +17996,15 @@
 			)
 		)
 		(property "MPN" "455-SM02B-SRSS-TBDKR-ND"
+			(at 152.4 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "Digikey"
 			(at 152.4 49.53 0)
 			(effects
 				(font
@@ -18384,7 +18420,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fe6bb0d7-9b92-4382-ba15-571aae4ae2b5")
 		(property "Reference" "H2"
@@ -18414,7 +18450,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 132.08 186.69 0)
 			(effects
 				(font

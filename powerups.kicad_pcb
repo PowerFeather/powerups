@@ -17157,7 +17157,7 @@
 		(uuid "a8261bb7-abb1-4c0c-9719-7301be062b7e")
 		(at 151.29 103.79 180)
 		(property "Reference" "Q2"
-			(at 0.79127 1.91109 360)
+			(at 0.79127 1.91109 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "b7c17aae-17b6-4ca2-9592-bd815ff7a127")
@@ -17170,7 +17170,7 @@
 			)
 		)
 		(property "Value" "DMN3016LFDE"
-			(at 7.86714 -1.84556 360)
+			(at 7.86714 -1.84556 0)
 			(layer "B.Fab")
 			(uuid "b945ed2b-4223-465a-a5e9-07b7194e416c")
 			(effects
@@ -17182,7 +17182,7 @@
 			)
 		)
 		(property "Footprint" "PowerFeather_KiCAD_Lib:DMN3016LFDE"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e9c18752-6302-4a44-98fd-8854a1785603")
@@ -17195,7 +17195,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "5da5108c-1cb8-409e-a1cc-a6ce9b423cd1")
@@ -17208,7 +17208,7 @@
 			)
 		)
 		(property "Description" "N-MOSFET transistor, gate/drain/source"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "63da4c97-a8a5-472e-9304-353d09cb98fa")
@@ -19851,7 +19851,7 @@
 		(descr "Net tie, 2 pin, 0.5mm square SMD pads")
 		(tags "net tie")
 		(property "Reference" "NT5"
-			(at 0 1.2 360)
+			(at 0 1.2 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "a8bf44b5-17ca-47e9-86b5-325cf42c13c5")
@@ -19864,7 +19864,7 @@
 			)
 		)
 		(property "Value" "NetTie_2"
-			(at 0 -1.2 360)
+			(at 0 -1.2 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2cfce19f-206b-4225-b5d2-48f112603444")
