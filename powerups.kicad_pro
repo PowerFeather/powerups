@@ -601,6 +601,10 @@
       {
         "netclass": "3A",
         "pattern": "Net-(CONN7-Pin_1)"
+      },
+      {
+        "netclass": "3A",
+        "pattern": "Net-(Q3-D)"
       }
     ]
   },
