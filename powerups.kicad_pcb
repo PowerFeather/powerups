@@ -5617,7 +5617,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-mfsa-automotive-smd-current-sense-resistor-metal-foil-data-sheet-elx1180.pdf"
 			(at -0.02 -0.0125 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11436,7 +11436,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-mfsa-automotive-smd-current-sense-resistor-metal-foil-data-sheet-elx1180.pdf"
 			(at -0.02 -0.0125 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11799,7 +11799,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-mfsa-automotive-smd-current-sense-resistor-metal-foil-data-sheet-elx1180.pdf"
 			(at -0.02 -0.0125 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12396,7 +12396,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-mfsa-automotive-smd-current-sense-resistor-metal-foil-data-sheet-elx1180.pdf"
 			(at -0.02 -0.0125 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16275,7 +16275,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-mfsa-automotive-smd-current-sense-resistor-metal-foil-data-sheet-elx1180.pdf"
 			(at -0.02 -0.0125 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23431,6 +23431,15 @@
 		(uuid "07ea6362-4a17-4454-b9b8-e7547114f6a1")
 	)
 	(via
+		(at 134.96 88.31)
+		(size 0.6048)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 1)
+		(uuid "0f556fc7-99ef-476b-be1e-51c175931158")
+	)
+	(via
 		(at 139.69 84.44)
 		(size 0.6048)
 		(drill 0.3)
@@ -23561,7 +23570,7 @@
 		(uuid "4d1b0947-14eb-439e-82c9-86bc91156b7f")
 	)
 	(via
-		(at 136.41 86.88)
+		(at 133.7 90.48)
 		(size 0.6048)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -23698,7 +23707,7 @@
 		(uuid "729fd0a9-650a-47b2-acaf-7de24994a57f")
 	)
 	(via
-		(at 138.09 91.6)
+		(at 138.62 90.56)
 		(size 0.6048)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -23731,6 +23740,15 @@
 		(free yes)
 		(net 1)
 		(uuid "7baec054-214a-4004-ac61-84bb8a12401d")
+	)
+	(via
+		(at 137.02 92.76)
+		(size 0.6048)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 1)
+		(uuid "7c72e603-5bc0-453a-9f49-2f6aab1da65c")
 	)
 	(via
 		(at 148.27 111.23)
@@ -24070,7 +24088,7 @@
 		(uuid "f15f58d6-f6b1-4604-9582-f04b6f69b77f")
 	)
 	(via
-		(at 134.03 88.88)
+		(at 136.28 86.65)
 		(size 0.6048)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
