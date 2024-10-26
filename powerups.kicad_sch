@@ -4344,7 +4344,7 @@
 						)
 					)
 				)
-				(pin no_connect line
+				(pin free line
 					(at 12.7 2.54 180)
 					(length 2.54)
 					(name "NC"
@@ -4416,7 +4416,7 @@
 						)
 					)
 				)
-				(pin no_connect line
+				(pin free line
 					(at 12.7 -1.27 180)
 					(length 2.54)
 					(name "NC"
@@ -6475,6 +6475,12 @@
 		(uuid "dfa35e37-081f-42f8-a3d9-7af0b08ad475")
 	)
 	(junction
+		(at 200.66 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e05d21fb-467c-43bf-8d36-7721af9a230f")
+	)
+	(junction
 		(at 185.42 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6521,6 +6527,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fdc1708f-8639-4ed2-8236-04b4fad36a16")
+	)
+	(junction
+		(at 200.66 36.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fde1bcfe-f88e-49ec-a453-b55a1c70eb79")
 	)
 	(no_connect
 		(at 88.9 172.72)
@@ -6721,6 +6733,16 @@
 			(type default)
 		)
 		(uuid "09697fe3-dca5-4559-a105-08d22d07a0ad")
+	)
+	(wire
+		(pts
+			(xy 199.39 36.83) (xy 200.66 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ab607eb-9eab-467b-8219-6b113dca80df")
 	)
 	(wire
 		(pts
@@ -8144,6 +8166,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 36.83) (xy 200.66 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75439cba-a6fc-47de-8d5f-e3e4a5d2797d")
+	)
+	(wire
+		(pts
 			(xy 152.4 118.11) (xy 152.4 147.32)
 		)
 		(stroke
@@ -9144,6 +9176,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 40.64) (xy 200.66 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c79b0cd0-2d4a-454b-8a53-d717bd59dc09")
+	)
+	(wire
+		(pts
 			(xy 82.55 167.64) (xy 82.55 179.07)
 		)
 		(stroke
@@ -9361,6 +9403,16 @@
 			(type default)
 		)
 		(uuid "dc8ee5f8-caeb-4b95-a5ca-88ff1757082a")
+	)
+	(wire
+		(pts
+			(xy 200.66 33.02) (xy 199.39 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd8a0aa2-b56d-439b-9ddb-cb4ff51c7477")
 	)
 	(wire
 		(pts
@@ -10011,9 +10063,9 @@
 			"B7U+VImPRV7AAAAAAElFTkSuQmCC"
 		)
 	)
-	(text "- ILIM resistor sets 3.125 current limit (2500 / 800)\n- MAX17260 Rsense (10mOhm in parallel = 5 mOhm)\n    - Max Capacity: 327.675m / 5m = 65 Ah\n    - Max Current: 51.1984m / 5m = 10.24 A\n    - Min Current: 0.0015625u / 5m = 312.5 uA\n- 5V boost initially bypassed, 5V out initially disabled\n- TPS2120 ILIM = 69.1 / (31.6 ^ 0.861) = 3.53 A\n"
+	(text "- ILIM resistor sets 3.125 current limit (2500 / 800)\n- MAX17260 Rsense (10mOhm in parallel = 5 mOhm)\n    - Max Capacity: 327.675m / 5m = 65 Ah\n    - Max Current: 51.1984m / 5m = 10.24 A\n    - Min Current: 0.0015625u / 5m = 312.5 uA\n- 5V boost initially bypassed, 5V out initially disabled\n- TPS2120 ILIM = 69.1 / (31.6 ^ 0.861) = 3.53 A\n- FAN48623 VSEL0 = 5 V out\n"
 		(exclude_from_sim no)
-		(at 182.626 75.184 0)
+		(at 194.818 77.724 0)
 		(effects
 			(font
 				(size 1.27 1.27)
