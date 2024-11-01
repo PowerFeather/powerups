@@ -12087,7 +12087,7 @@
 				)
 			)
 		)
-		(property "Value" "800"
+		(property "Value" "806"
 			(at 118.872 107.95 0)
 			(effects
 				(font
@@ -12460,7 +12460,7 @@
 				)
 			)
 		)
-		(property "Value" "800"
+		(property "Value" "806"
 			(at 96.012 107.95 0)
 			(effects
 				(font
@@ -13946,7 +13946,7 @@
 				)
 			)
 		)
-		(property "Value" "800"
+		(property "Value" "806"
 			(at 103.632 107.95 0)
 			(effects
 				(font
@@ -15608,7 +15608,7 @@
 				)
 			)
 		)
-		(property "Value" "800"
+		(property "Value" "806"
 			(at 125.73 57.15 90)
 			(effects
 				(font
@@ -16723,7 +16723,7 @@
 				)
 			)
 		)
-		(property "Value" "800"
+		(property "Value" "806"
 			(at 111.252 107.95 0)
 			(effects
 				(font

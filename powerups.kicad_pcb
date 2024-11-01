@@ -2651,7 +2651,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "800"
+		(property "Value" "806"
 			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(uuid "4aad1290-511d-45a8-b03c-615577f16f82")
@@ -9794,7 +9794,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "800"
+		(property "Value" "806"
 			(at -0.445 -1.34 0)
 			(layer "B.Fab")
 			(uuid "817780f1-b4ca-4162-bcd9-4a2861d1efe0")
@@ -12587,7 +12587,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "800"
+		(property "Value" "806"
 			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(uuid "cc99668c-53aa-4610-b45d-94d96b78348f")
@@ -19372,7 +19372,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "800"
+		(property "Value" "806"
 			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(uuid "5594cf1b-1785-496f-a76c-16ce8ae090bf")
@@ -21706,7 +21706,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "800"
+		(property "Value" "806"
 			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(uuid "53a4bf83-9b7e-4335-bf41-9a02300c5ac9")
@@ -22878,7 +22878,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "800"
+		(property "Value" "806"
 			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(uuid "1bde70b2-b23d-4ca3-9519-7d5bcb201b77")
