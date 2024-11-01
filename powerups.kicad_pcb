@@ -14885,7 +14885,7 @@
 			(pintype "power_in")
 			(uuid "ffc910fb-0f13-44e3-953a-464b21e74ca8")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-16_1.92x1.92mm_Layout4x4_P0.5mm.step"
+		(model "${KIPRJMOD}/powerfeather-kicad-lib/3d/FAN48623.step"
 			(offset
 				(xyz 0 0 0)
 			)
