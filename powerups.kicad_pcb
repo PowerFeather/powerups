@@ -2181,7 +2181,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-pt-15-2-35-h-1984617?type=pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/9/product_1776275_2_datasheet-3437432.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -2195,7 +2195,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "10 A terminal block"
+		(property "Description" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -2209,7 +2209,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "490-TB003-500-P02BE"
+		(property "MPN" "571-1776275-2 "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6685,7 +6685,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.sameskydevices.com/product/resource/tb003-500.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/9/product_1776275_2_datasheet-3437432.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6699,7 +6699,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "10 A terminal block"
+		(property "Description" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6713,7 +6713,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "490-TB003-500-P02BE "
+		(property "MPN" "571-1776275-2 "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
