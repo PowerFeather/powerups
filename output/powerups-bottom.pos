@@ -1,5 +1,5 @@
-### Footprint positions - created on 2024-10-26T15:24:18+0900 ###
-### Printed by KiCad version 8.0.5-dirty
+### Footprint positions - created on 2024-11-01T15:47:24+0900 ###
+### Printed by KiCad version 8.0.6
 ## Unit = mm, Angle = deg.
 ## Side : bottom
 # Ref     Val              Package                                                            PosX       PosY       Rot  Side
@@ -12,7 +12,8 @@ C5        20pF             C_0402_1005Metric                                    
 C6        10uF             C_0603_1608Metric                                              147.5400   -88.8150  -90.0000  bottom
 C7        22uF             C_0805_2012Metric                                              149.9500   -84.3100   90.0000  bottom
 C8        22uF             C_0805_2012Metric                                              153.0100   -84.3100   90.0000  bottom
-C9        1uF              C_0402_1005Metric                                              137.1200  -104.8400    0.0000  bottom
+C9        47nF             C_0402_1005Metric                                              137.1200  -104.8400    0.0000  bottom
+C10       1uF              C_0402_1005Metric                                              109.4100   -90.3000    0.0000  bottom
 C11       10uF             C_0603_1608Metric                                              142.6600  -102.8450   90.0000  bottom
 C12       47nF             C_0402_1005Metric                                              127.2100  -110.9900  -90.0000  bottom
 C13       22uF             C_0805_2012Metric                                              124.8700  -110.7300  180.0000  bottom
@@ -26,7 +27,6 @@ C20       1uF              C_0402_1005Metric                                    
 C21       4.7uF            C_0603_1608Metric                                              112.4050   -89.6800    0.0000  bottom
 C22       47nF             C_0402_1005Metric                                              112.7000   -91.2300    0.0000  bottom
 C23       47nF             C_0402_1005Metric                                              108.7800  -103.1700   90.0000  bottom
-C24       47nF             C_0402_1005Metric                                              109.3900   -90.2900  180.0000  bottom
 CONN1     Battery          TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal   126.9400   -96.8000    0.0000  bottom
 CONN2     External_Button  PinHeader_1x02_P1.00mm_Vertical                                101.5800   -90.7200  180.0000  bottom
 CONN5     Debug            PinHeader_1x04_P2.54mm_Vertical                                116.3800   -92.3000  180.0000  bottom
@@ -46,11 +46,11 @@ R3        267k             R_0402_1005Metric                                    
 R4        0                R_Shunt                                                        142.5375  -107.7400  -90.0000  bottom
 R5        0                R_Shunt                                                        140.6875   -95.6300  -90.0000  bottom
 R6        31.6k            R_0402_1005Metric                                              138.0700  -103.7600  180.0000  bottom
-R7        800              R_0402_1005Metric                                               98.7800   -90.6600  180.0000  bottom
-R8        800              R_0402_1005Metric                                               98.7800   -91.6800  180.0000  bottom
-R9        800              R_0402_1005Metric                                               98.7800   -89.6500  180.0000  bottom
-R10       800              R_0402_1005Metric                                               98.7800   -92.6600  180.0000  bottom
-R11       800              R_0402_1005Metric                                              123.4600  -105.0200    0.0000  bottom
+R7        806              R_0402_1005Metric                                               98.7800   -90.6600  180.0000  bottom
+R8        806              R_0402_1005Metric                                               98.7800   -91.6800  180.0000  bottom
+R9        806              R_0402_1005Metric                                               98.7800   -89.6500  180.0000  bottom
+R10       806              R_0402_1005Metric                                               98.7800   -92.6600  180.0000  bottom
+R11       806              R_0402_1005Metric                                              123.4600  -105.0200    0.0000  bottom
 R12       10m              R_0603_1608Metric                                              123.6200   -98.9250   90.0000  bottom
 R13       0                R_Shunt                                                        143.5400   -88.1225    0.0000  bottom
 R14       267k             R_0402_1005Metric                                              141.0100   -87.1400    0.0000  bottom
@@ -65,13 +65,13 @@ R23       267k             R_0402_1005Metric                                    
 R24       0                R_Shunt                                                        147.8037  -105.5150  -90.0000  bottom
 R25       267k             R_0402_1005Metric                                              117.1600  -102.3700    0.0000  bottom
 R26       5.36k            R_0402_1005Metric                                              104.8000  -103.0600    0.0000  bottom
-R27       800              R_0402_1005Metric                                               97.6500  -105.3000    0.0000  bottom
+R27       806              R_0402_1005Metric                                               97.6500  -105.3000    0.0000  bottom
 R28       5.36k            R_0402_1005Metric                                              124.4800  -103.9800    0.0000  bottom
 R29       31.6k            R_0402_1005Metric                                              121.9900  -104.5700   90.0000  bottom
 R30       267k             R_0402_1005Metric                                              119.4100   -98.1900   90.0000  bottom
 TP1       TestPoint        PinHeader_1x01_P2.54mm_Vertical                                158.5900  -103.7000  180.0000  bottom
 U1        TPS2120          TPS2120                                                        138.2000  -101.0200  180.0000  bottom
-U3        FAN48623         WLCSP-16_1.409x1.409mm_P0.35mm                                 142.3350   -84.7350    0.0000  bottom
+U3        FAN48623         FAN48623                                                       142.3350   -84.7350    0.0000  bottom
 U4        AVR128DB28       SSOP-28_5.3x10.2mm_P0.65mm                                     108.9250   -96.7000  -90.0000  bottom
 U5        NCV68261         DFN-6_2x2mm_P0.65mm_EP1x1.6mm                                  153.4025  -107.7075   90.0000  bottom
 U6        BQ25622E         BQ25622E                                                       127.9850  -105.5700    0.0000  bottom

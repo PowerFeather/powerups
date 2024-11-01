@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.5-dirty"
+      "Version": "8.0.6"
     },
-    "CreationDate": "2024-10-26T15:13:40+09:00"
+    "CreationDate": "2024-11-01T15:47:03+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "powerups",
       "GUID": "706f7765-7275-4707-932e-6b696361645f",
-      "Revision": "rev?"
+      "Revision": "0.9.2"
     },
     "Size": {
       "X": 65.05,
