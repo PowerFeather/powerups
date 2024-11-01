@@ -8146,7 +8146,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 67.31) (xy 85.09 29.21)
+			(xy 85.09 66.04) (xy 85.09 29.21)
 		)
 		(stroke
 			(width 0)
@@ -8896,7 +8896,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 74.93) (xy 85.09 81.28)
+			(xy 85.09 73.66) (xy 85.09 81.28)
 		)
 		(stroke
 			(width 0)
@@ -12842,7 +12842,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 85.09 71.12 0)
+		(at 85.09 69.85 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12851,7 +12851,7 @@
 		(dnp no)
 		(uuid "348fb4ab-961a-4299-9974-0892aa7260df")
 		(property "Reference" "C3"
-			(at 87.884 70.104 0)
+			(at 87.884 68.834 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12860,7 +12860,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 87.884 72.136 0)
+			(at 87.884 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12869,7 +12869,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 84.1248 74.93 0)
+			(at 84.1248 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12878,7 +12878,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
-			(at 85.09 71.12 0)
+			(at 85.09 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12887,7 +12887,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 71.12 0)
+			(at 85.09 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12896,7 +12896,7 @@
 			)
 		)
 		(property "Comment" "25V, X5R"
-			(at 85.09 71.12 0)
+			(at 85.09 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12905,7 +12905,7 @@
 			)
 		)
 		(property "MPN" "187-CL21A226MAYNNNE"
-			(at 85.09 71.12 0)
+			(at 85.09 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13443,7 +13443,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "579-AVR128DB28-I/SS"
+		(property "MPN" "579-AVR128DB28T-I/SS"
 			(at 198.12 130.81 0)
 			(effects
 				(font
@@ -15316,7 +15316,7 @@
 		(dnp no)
 		(uuid "9be25bf5-7326-45f6-b26b-d7c6122a9561")
 		(property "Reference" "C9"
-			(at 77.724 56.642 0)
+			(at 77.216 57.404 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15324,8 +15324,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1uF"
-			(at 78.74 59.182 0)
+		(property "Value" "47nF"
+			(at 79.502 59.436 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15342,7 +15342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.ph/datasheet/2/281/1/GRM155R61E105MA12_01A-1983855.pdf"
+		(property "Datasheet" "https://www.mouser.ph/datasheet/2/210/WTC_MLCC_General_Purpose-1534899.pdf"
 			(at 72.39 58.42 0)
 			(effects
 				(font
@@ -15360,7 +15360,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "25V, X5R"
+		(property "Comment" "25V,  X7R"
 			(at 72.39 58.42 0)
 			(effects
 				(font
@@ -15369,7 +15369,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "81-GRM155R61E105MA2J"
+		(property "MPN" "791-0402B473K250CT"
 			(at 72.39 58.42 0)
 			(effects
 				(font
