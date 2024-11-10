@@ -4564,7 +4564,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PowerFeather_KiCAD_Lib:DFN-6_2x2mm_P0.65mm_EP1x1.6mm"
+			(property "Footprint" "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
 				(at 0 -10.668 0)
 				(effects
 					(font
@@ -4706,6 +4706,24 @@
 						)
 					)
 					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -1.27 180)
+					(length 2.54)
+					(name "EP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6031,12 +6049,6 @@
 		(uuid "076011b0-755e-4fe3-9931-cc0177f5beb5")
 	)
 	(junction
-		(at 240.03 29.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "07e77023-ea56-4934-be63-275db02612ba")
-	)
-	(junction
 		(at 100.33 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6227,6 +6239,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6b3c7eb5-b7fa-4936-8d29-3d53cf69b349")
+	)
+	(junction
+		(at 252.73 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6be19aad-f214-4b30-aeed-6b861e68698a")
 	)
 	(junction
 		(at 35.56 48.26)
@@ -6485,6 +6503,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e1c53a66-3ef2-4da4-b152-ef75dd25e8b0")
+	)
+	(junction
+		(at 240.03 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2852084-0f12-434a-9224-0483da67708d")
 	)
 	(junction
 		(at 80.01 81.28)
@@ -7116,6 +7140,16 @@
 	)
 	(wire
 		(pts
+			(xy 252.73 63.5) (xy 240.03 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "290b60b0-4746-4678-b2f3-e61176086cef")
+	)
+	(wire
+		(pts
 			(xy 45.72 33.02) (xy 43.18 33.02)
 		)
 		(stroke
@@ -7263,6 +7297,16 @@
 			(type default)
 		)
 		(uuid "2ef5f167-bbc9-4b89-a2ac-77607cc63a56")
+	)
+	(wire
+		(pts
+			(xy 240.03 34.29) (xy 240.03 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f05807b-8ab7-4327-a4de-f1f11079b73e")
 	)
 	(wire
 		(pts
@@ -7696,6 +7740,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 29.21) (xy 241.3 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e536564-438c-461f-b480-655d159f26c6")
+	)
+	(wire
+		(pts
 			(xy 243.84 105.41) (xy 241.3 105.41)
 		)
 		(stroke
@@ -8003,6 +8057,16 @@
 			(type default)
 		)
 		(uuid "67e169bf-48d4-4c35-98ac-99533225d4fa")
+	)
+	(wire
+		(pts
+			(xy 252.73 50.8) (xy 252.73 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6890de40-d357-4fd5-9f37-45786f60082b")
 	)
 	(wire
 		(pts
@@ -8596,16 +8660,6 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 34.29) (xy 240.03 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b9cb819-1c82-4a5a-9302-12558b2f6f10")
-	)
-	(wire
-		(pts
 			(xy 80.01 81.28) (xy 85.09 81.28)
 		)
 		(stroke
@@ -8613,16 +8667,6 @@
 			(type default)
 		)
 		(uuid "9c2e17df-317a-4327-9d1a-df50d980fffc")
-	)
-	(wire
-		(pts
-			(xy 240.03 29.21) (xy 241.3 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c42102b-7a64-4680-aea0-1184935e52ce")
 	)
 	(wire
 		(pts
@@ -9226,6 +9270,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 34.29) (xy 240.03 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc005714-f67d-44a5-87a0-54db6266e4cf")
+	)
+	(wire
+		(pts
 			(xy 92.71 102.87) (xy 100.33 102.87)
 		)
 		(stroke
@@ -9356,7 +9410,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 63.5) (xy 240.03 63.5)
+			(xy 261.62 63.5) (xy 252.73 63.5)
 		)
 		(stroke
 			(width 0)
@@ -9393,6 +9447,16 @@
 			(type default)
 		)
 		(uuid "da693dfc-4ed0-4c87-b0a3-209bdaa3f00d")
+	)
+	(wire
+		(pts
+			(xy 247.65 50.8) (xy 252.73 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dabdb551-694e-4946-94c8-ecdf361d6ae3")
 	)
 	(wire
 		(pts
@@ -14285,74 +14349,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:NetTie_2")
-		(at 240.03 31.75 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp yes)
-		(uuid "78f9a0fe-922c-4cc8-94ca-286ffba57868")
-		(property "Reference" "NT5"
-			(at 238.76 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NetTie_2"
-			(at 241.3 33.528 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
-			(at 240.03 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 240.03 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Net tie, 2 pins"
-			(at 240.03 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "005da76f-52d2-4604-bc74-34c2a669eb97")
-		)
-		(pin "1"
-			(uuid "77326216-87ea-4a5b-ae95-8eb6f4cde27c")
-		)
-		(instances
-			(project "powerups"
-				(path "/351775ff-22dd-4601-a146-0ae5bb7b1807"
-					(reference "NT5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 200.66 105.41 0)
 		(unit 1)
@@ -14573,7 +14569,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PowerFeather_KiCAD_Lib:DFN-6_2x2mm_P0.65mm_EP1x1.6mm"
+		(property "Footprint" "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
 			(at 240.03 60.198 0)
 			(effects
 				(font
@@ -14626,6 +14622,9 @@
 		)
 		(pin "1"
 			(uuid "df8b5fd6-271c-42aa-85dd-89ea54ac319a")
+		)
+		(pin "7"
+			(uuid "258c4d0f-7dbe-461b-830c-64bfda7ca00e")
 		)
 		(instances
 			(project ""
