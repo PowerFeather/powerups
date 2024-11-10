@@ -1,4 +1,4 @@
-### Footprint positions - created on 2024-11-01T16:23:42+0900 ###
+### Footprint positions - created on 2024-11-10T15:26:14+0900 ###
 ### Printed by KiCad version 8.0.6
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -73,7 +73,7 @@ TP1       TestPoint        PinHeader_1x01_P2.54mm_Vertical                      
 U1        TPS2120          TPS2120                                                        138.2000  -101.0200  180.0000  bottom
 U3        FAN48623         FAN48623                                                       142.3350   -84.7350    0.0000  bottom
 U4        AVR128DB28       SSOP-28_5.3x10.2mm_P0.65mm                                     108.9250   -96.7000  -90.0000  bottom
-U5        NCV68261         DFN-6_2x2mm_P0.65mm_EP1x1.6mm                                  153.4025  -107.7075   90.0000  bottom
+U5        NCV68261         DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm                              153.4025  -107.7075   90.0000  bottom
 U6        BQ25622E         BQ25622E                                                       127.9850  -105.5700    0.0000  bottom
 U7        MAX17260         TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm                         121.8250   -92.2300  180.0000  bottom
 Y1        32.768_kHz       Crystal_SMD_G8-2Pin_3.2x1.5mm                                  112.4300  -102.9200    0.0000  bottom

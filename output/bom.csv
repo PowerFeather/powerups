@@ -24,7 +24,7 @@
 "U1","TPS2120","https://www.ti.com/lit/ds/symlink/tps2120.pdf?ts=1729747346247&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fja-jp%252FTPS2120","PowerFeather_KiCAD_Lib:TPS2120","1","","595-TPS2120YFPR ",""
 "U3","FAN48623","https://www.mouser.com/datasheet/2/308/1/FAN48623_D-2311504.pdf","PowerFeather_KiCAD_Lib:FAN48623","1","","512-FAN48623UC50X",""
 "U4","AVR128DB28","https://www.mouser.com/datasheet/2/268/AVR128DB28_32_48_64_DataSheet_DS40002247-3223139.pdf","Package_SO:SSOP-28_5.3x10.2mm_P0.65mm","1","","579-AVR128DB28T-I/SS",""
-"U5","NCV68261","https://www.onsemi.com/download/data-sheet/pdf/ncv68261-d.pdf","PowerFeather_KiCAD_Lib:DFN-6_2x2mm_P0.65mm_EP1x1.6mm","1","","863-NCV68261MTWAITBG ","Ideal Diode and High Side Switch NMOS Controller"
+"U5","NCV68261","https://www.onsemi.com/download/data-sheet/pdf/ncv68261-d.pdf","Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm","1","","863-NCV68261MTWAITBG ","Ideal Diode and High Side Switch NMOS Controller"
 "U6","BQ25622E","https://www.ti.com/lit/gpn/bq25622e","PowerFeather_KiCAD_Lib:BQ25622E","1","","595-BQ25622RYKR","BQ25622E I2C Controlled 1-Cell, 3A, Maximum 18V Input, Buck Battery Charger with NVDC Power Path Management"
 "U7","MAX17260","https://www.mouser.com/datasheet/2/609/MAX17260-3469057.pdf","Package_DFN_QFN:TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm","1","","700-MAX17260SETD+T",""
 "Y1","32.768 kHz","https://www.mouser.com/datasheet/2/122/ECX_34R-845158.pdf","Crystal:Crystal_SMD_G8-2Pin_3.2x1.5mm","1","12.5 pF","520-.327-7-34R-T",""
