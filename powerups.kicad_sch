@@ -7,7 +7,7 @@
 	(title_block
 		(title "PowerUPS")
 		(date "2024-10-11")
-		(rev "0.9.2")
+		(rev "0.9.3")
 		(company "PowerFeather")
 		(comment 1 "UPS for Raspberry Pi with LiPo/Li-Ion/LiFePo4 & Solar Support")
 	)

@@ -10,7 +10,7 @@
 	(title_block
 		(title "PowerUPS")
 		(date "2024-11-01")
-		(rev "0.9.2")
+		(rev "0.9.3")
 		(company "PowerFeather")
 	)
 	(layers
@@ -23450,7 +23450,7 @@
 		(layer "Edge.Cuts")
 		(uuid "f22e1a24-58c2-4196-b99f-0a2d44049678")
 	)
-	(gr_text "v0.9.2"
+	(gr_text "v0.9.3"
 		(at 145.64 86.64 0)
 		(layer "F.SilkS")
 		(uuid "ba989fe6-c0d5-418c-ab41-5a07d0e4a01d")
